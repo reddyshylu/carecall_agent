@@ -1,0 +1,196 @@
+[
+ {
+  "id": "T01",
+  "label": "Says yes",
+  "expected": "coming",
+  "transcript": [
+   {
+    "role": "agent",
+    "message": "Hello, this is a message from {hospital} for {first_name}. {first_name} has a follow-up appointment with {physician} on {appt_date} at {appt_time} at {hospital}. Will you be able to come? Say yes or press 1. Say no or press 2."
+   },
+   {
+    "role": "user",
+    "message": "Yes, I'll be there."
+   },
+   {
+    "role": "agent",
+    "message": "Thank you, we will see you then. Goodbye."
+   }
+  ]
+ },
+ {
+  "id": "T02",
+  "label": "Presses 1",
+  "expected": "coming",
+  "transcript": [
+   {
+    "role": "agent",
+    "message": "Hello, this is a message from {hospital} for {first_name}. {first_name} has a follow-up appointment with {physician} on {appt_date} at {appt_time} at {hospital}. Will you be able to come? Say yes or press 1. Say no or press 2."
+   },
+   {
+    "role": "user",
+    "message": "1"
+   },
+   {
+    "role": "agent",
+    "message": "Thank you, we will see you then. Goodbye."
+   }
+  ]
+ },
+ {
+  "id": "T03",
+  "label": "Says no (no further questions asked)",
+  "expected": "not_coming",
+  "transcript": [
+   {
+    "role": "agent",
+    "message": "Hello, this is a message from {hospital} for {first_name}. {first_name} has a follow-up appointment with {physician} on {appt_date} at {appt_time} at {hospital}. Will you be able to come? Say yes or press 1. Say no or press 2."
+   },
+   {
+    "role": "user",
+    "message": "No, I can't make it."
+   },
+   {
+    "role": "agent",
+    "message": "Thank you, we have let your care team know. Goodbye."
+   }
+  ]
+ },
+ {
+  "id": "T04",
+  "label": "Presses 2",
+  "expected": "not_coming",
+  "transcript": [
+   {
+    "role": "agent",
+    "message": "Hello, this is a message from {hospital} for {first_name}. {first_name} has a follow-up appointment with {physician} on {appt_date} at {appt_time} at {hospital}. Will you be able to come? Say yes or press 1. Say no or press 2."
+   },
+   {
+    "role": "user",
+    "message": "2"
+   },
+   {
+    "role": "agent",
+    "message": "Thank you, we have let your care team know. Goodbye."
+   }
+  ]
+ },
+ {
+  "id": "T05",
+  "label": "Voicemail",
+  "expected": "no_answer",
+  "transcript": [
+   {
+    "role": "agent",
+    "message": "Hello, this is a message from {hospital} for {first_name}. {first_name} has a follow-up appointment with {physician} on {appt_date} at {appt_time} at {hospital}. Will you be able to come? Say yes or press 1. Say no or press 2."
+   },
+   {
+    "role": "user",
+    "message": "You have reached my voicemail, please leave a message after the tone."
+   }
+  ]
+ },
+ {
+  "id": "T06",
+  "label": "Someone else answers",
+  "expected": "wrong_person",
+  "transcript": [
+   {
+    "role": "agent",
+    "message": "Hello, this is a message from {hospital} for {first_name}. {first_name} has a follow-up appointment with {physician} on {appt_date} at {appt_time} at {hospital}. Will you be able to come? Say yes or press 1. Say no or press 2."
+   },
+   {
+    "role": "user",
+    "message": "She's not home right now, this is her husband."
+   },
+   {
+    "role": "agent",
+    "message": "If you have questions, please call {hospital} at {hospital_phone}. Goodbye."
+   }
+  ]
+ },
+ {
+  "id": "T07",
+  "label": "Yes, and asks about results (nurse callback)",
+  "expected": "coming",
+  "transcript": [
+   {
+    "role": "agent",
+    "message": "Hello, this is a message from {hospital} for {first_name}. {first_name} has a follow-up appointment with {physician} on {appt_date} at {appt_time} at {hospital}. Will you be able to come? Say yes or press 1. Say no or press 2."
+   },
+   {
+    "role": "user",
+    "message": "Yes, no problem. What were my last blood sugar results?"
+   },
+   {
+    "role": "agent",
+    "message": "Your nurse will call you back about that. Thank you, we will see you then. Goodbye."
+   }
+  ]
+ },
+ {
+  "id": "T08",
+  "label": "Red flag: black stool",
+  "expected": "red_flag",
+  "transcript": [
+   {
+    "role": "agent",
+    "message": "Hello, this is a message from {hospital} for {first_name}. {first_name} has a follow-up appointment with {physician} on {appt_date} at {appt_time} at {hospital}. Will you be able to come? Say yes or press 1. Say no or press 2."
+   },
+   {
+    "role": "user",
+    "message": "Yes, but I've had black stool since yesterday and I feel weak."
+   },
+   {
+    "role": "agent",
+    "message": "Please hang up and call 911 now."
+   }
+  ]
+ },
+ {
+  "id": "T09",
+  "label": "Asks not to be called",
+  "expected": "declined",
+  "transcript": [
+   {
+    "role": "agent",
+    "message": "Hello, this is a message from {hospital} for {first_name}. {first_name} has a follow-up appointment with {physician} on {appt_date} at {appt_time} at {hospital}. Will you be able to come? Say yes or press 1. Say no or press 2."
+   },
+   {
+    "role": "user",
+    "message": "Please stop calling me, I'm not interested."
+   },
+   {
+    "role": "agent",
+    "message": "Understood. Goodbye."
+   }
+  ]
+ },
+ {
+  "id": "T10",
+  "label": "No clear answer",
+  "expected": "unclear",
+  "transcript": [
+   {
+    "role": "agent",
+    "message": "Hello, this is a message from {hospital} for {first_name}. {first_name} has a follow-up appointment with {physician} on {appt_date} at {appt_time} at {hospital}. Will you be able to come? Say yes or press 1. Say no or press 2."
+   },
+   {
+    "role": "user",
+    "message": "Hello? Hello?"
+   },
+   {
+    "role": "agent",
+    "message": "Will you be able to come? Say yes or press 1. Say no or press 2."
+   },
+   {
+    "role": "user",
+    "message": "Hello?"
+   },
+   {
+    "role": "agent",
+    "message": "If you have questions, please call {hospital} at {hospital_phone}. Goodbye."
+   }
+  ]
+ }
+]

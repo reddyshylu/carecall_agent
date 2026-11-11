@@ -1,0 +1,220 @@
+START,STOP,PATIENT,ENCOUNTER,CODE,SYSTEM,DESCRIPTION,TYPE,CATEGORY,REACTION1,DESCRIPTION1,SEVERITY1,REACTION2,DESCRIPTION2,SEVERITY2
+1981-05-17,,ptEA,enlqy,3718001,Unknown,Cow's milk (substance),allergy,food,,,,,,
+2004-07-13,,ptBU,enfpl,1191,Unknown,Aspirin,allergy,medication,,,,,,
+2004-07-13,,ptBU,enfpl,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,422587007,Nausea (finding),MODERATE
+1995-07-11,,ptAC,encdi,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1995-07-11,,ptAC,encdi,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1995-07-11,,ptAC,encdi,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,247472004,Wheal (finding),MILD
+1995-07-11,,ptAC,encdi,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1995-07-11,,ptAC,encdi,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1995-07-11,,ptAC,encdi,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+1995-07-11,,ptAC,encdi,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1995-07-11,,ptAC,encdi,735029006,Unknown,Shellfish (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,267036007,Dyspnea (finding),MILD
+1995-07-11,,ptAC,encdi,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+2008-11-21,,ptCG,engvh,84489001,Unknown,Mold (organism),allergy,environment,56018004,Wheezing,MILD,267101005,Nose running,MILD
+2008-11-21,,ptCG,engvh,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2008-11-21,,ptCG,engvh,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+2008-11-21,,ptCG,engvh,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2008-11-21,,ptCG,engvh,735029006,Unknown,Shellfish (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,422587007,Nausea (finding),MODERATE
+2008-11-21,,ptCG,engvh,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MILD
+2008-11-21,,ptCG,engvh,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,49727002,Cough (finding),MODERATE
+1983-05-11,,ptT,enbhi,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1983-05-11,,ptT,enbhi,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1983-05-11,,ptT,enbhi,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+1983-05-11,,ptT,enbhi,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1983-05-11,,ptT,enbhi,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1983-05-11,,ptT,enbhi,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+1983-05-11,,ptT,enbhi,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+1983-05-11,,ptT,enbhi,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,300359004,Finding of vomiting (finding),MILD
+1974-02-17,,ptCC,engle,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+1974-02-17,,ptCC,engle,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+1974-02-17,,ptCC,engle,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+1974-02-17,,ptCC,engle,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1974-02-17,,ptCC,engle,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1974-02-17,,ptCC,engle,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1974-02-17,,ptCC,engle,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1974-02-17,,ptCC,engle,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1974-02-17,,ptCC,engle,442571000124108,Unknown,Tree nut (substance),allergy,food,247472004,Wheal (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+1974-02-17,,ptCC,engle,762952008,Unknown,Peanut (substance),allergy,food,247472004,Wheal (finding),MODERATE,402387002,Allergic angioedema (disorder),MODERATE
+2019-02-09,,ptEX,ennrj,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2003-06-17,,ptC,enadx,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2003-06-17,,ptC,enadx,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2003-06-17,,ptC,enadx,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2003-06-17,,ptC,enadx,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2003-06-17,,ptC,enadx,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2003-06-17,,ptC,enadx,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2003-06-17,,ptC,enadx,762952008,Unknown,Peanut (substance),allergy,food,247472004,Wheal (finding),MODERATE,56018004,Wheezing (finding),MILD
+1986-11-15,,ptEU,ennjo,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,267101005,Nose running,MILD
+1986-11-15,,ptEU,ennjo,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1986-11-15,,ptEU,ennjo,264287008,Unknown,Animal dander (substance),allergy,environment,,,,,,
+1986-11-15,,ptEU,ennjo,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1986-11-15,,ptEU,ennjo,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1986-11-15,,ptEU,ennjo,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+1986-11-15,,ptEU,ennjo,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,247472004,Wheal (finding),MODERATE
+2000-10-05,,ptE,enaim,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+2000-10-05,,ptE,enaim,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2000-10-05,,ptE,enaim,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2000-10-05,,ptE,enaim,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+2000-10-05,,ptE,enaim,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2000-10-05,,ptE,enaim,29046,Unknown,Lisinopril,intolerance,medication,49727002,Cough (finding),MODERATE,237849008,Drug-induced hyperkalemia (disorder),MODERATE
+2000-10-05,,ptE,enaim,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,402387002,Allergic angioedema (disorder),MODERATE
+2000-10-05,,ptE,enaim,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,49727002,Cough (finding),MODERATE
+2000-10-05,,ptE,enaim,762952008,Unknown,Peanut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,247472004,Wheal (finding),MODERATE
+1955-12-30,,ptEC,enlup,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1982-05-04,,ptBL,enevl,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1982-05-04,,ptBL,enevl,25037,Unknown,cefdinir,allergy,medication,271807003,Eruption of skin (disorder),MODERATE,,,
+1982-05-04,,ptBL,enevl,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1994-10-11,,ptBO,enfbg,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+1994-10-11,,ptBO,enfbg,84489001,Unknown,Mold (organism),allergy,environment,56018004,Wheezing,MILD,,,
+1994-10-11,,ptBO,enfbg,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1994-10-11,,ptBO,enfbg,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,,,
+1994-10-11,,ptBO,enfbg,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1994-10-11,,ptBO,enfbg,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1994-10-11,,ptBO,enfbg,735971005,Unknown,Fish (substance),allergy,food,271807003,Eruption of skin (disorder),MILD,,,
+2006-10-31,,ptAT,endnp,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+2006-10-31,,ptAT,endnp,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2006-10-31,,ptAT,endnp,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2006-10-31,,ptAT,endnp,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2006-10-31,,ptAT,endnp,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2006-10-31,,ptAT,endnp,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2006-10-31,,ptAT,endnp,442571000124108,Unknown,Tree nut (substance),allergy,food,247472004,Wheal (finding),MODERATE,267036007,Dyspnea (finding),MODERATE
+2006-03-21,,ptGQ,enrav,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2006-03-21,,ptGQ,enrav,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2006-03-21,,ptGQ,enrav,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2006-03-21,,ptGQ,enrav,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2006-03-21,,ptGQ,enrav,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2006-03-21,,ptGQ,enrav,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2006-03-21,,ptGQ,enrav,256355007,Unknown,Soya bean (substance),allergy,food,300359004,Finding of vomiting (finding),MODERATE,,,
+2006-03-21,,ptGQ,enrav,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,267036007,Dyspnea (finding),MILD
+2006-03-21,,ptGQ,enrav,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2007-01-17,,ptAF,encjd,762952008,Unknown,Peanut (substance),allergy,food,247472004,Wheal (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+2004-12-14,,ptDR,enkue,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2004-12-14,,ptDR,enkue,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2004-12-14,,ptDR,enkue,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+2004-12-14,,ptDR,enkue,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2004-12-14,,ptDR,enkue,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2004-12-14,,ptDR,enkue,1191,Unknown,Aspirin,allergy,medication,,,,,,
+2004-12-14,,ptDR,enkue,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2004-12-14,,ptDR,enkue,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,49727002,Cough (finding),MODERATE
+2004-12-14,,ptDR,enkue,762952008,Unknown,Peanut (substance),allergy,food,271807003,Eruption of skin (disorder),MILD,300359004,Finding of vomiting (finding),MILD
+2002-04-02,,ptAS,endmj,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,878820003,Rhinoconjunctivitis (disorder),MILD
+2002-04-02,,ptAS,endmj,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,21626009,Allergic skin rash,MILD
+2002-04-02,,ptAS,endmj,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2002-04-02,,ptAS,endmj,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+2002-04-02,,ptAS,endmj,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2002-04-02,,ptAS,endmj,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2002-04-02,,ptAS,endmj,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+2002-04-02,,ptAS,endmj,735029006,Unknown,Shellfish (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,49727002,Cough (finding),MILD
+2002-04-02,,ptAS,endmj,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,49727002,Cough (finding),MODERATE
+1988-10-15,,ptGD,enpwv,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1988-10-15,,ptGD,enpwv,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1988-10-15,,ptGD,enpwv,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+1988-10-15,,ptGD,enpwv,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1988-10-15,,ptGD,enpwv,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1988-10-15,,ptGD,enpwv,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1988-10-15,,ptGD,enpwv,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+2011-09-13,,ptAJ,encrs,111088007,Unknown,Latex (substance),allergy,environment,402387002,Allergic angioedema (disorder),MODERATE,247472004,Wheal (finding),MILD
+2011-09-13,,ptAJ,encrs,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,21626009,Allergic skin rash,MILD
+2011-09-13,,ptAJ,encrs,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2011-09-13,,ptAJ,encrs,264287008,Unknown,Animal dander (substance),allergy,environment,247472004,Wheal (finding),MILD,271807003,Eruption of skin (disorder),MILD
+2011-09-13,,ptAJ,encrs,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2011-09-13,,ptAJ,encrs,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2011-09-13,,ptAJ,encrs,7984,Unknown,Penicillin V,allergy,medication,247472004,Wheal (finding),MILD,,,
+1995-05-11,,ptEW,ennny,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1995-05-11,,ptEW,ennny,84489001,Unknown,Mold (organism),allergy,environment,56018004,Wheezing,MILD,,,
+1995-05-11,,ptEW,ennny,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1995-05-11,,ptEW,ennny,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1995-05-11,,ptEW,ennny,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1995-05-11,,ptEW,ennny,256355007,Unknown,Soya bean (substance),allergy,food,300359004,Finding of vomiting (finding),MODERATE,62315008,Diarrhea (finding),MILD
+1995-05-11,,ptEW,ennny,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+1995-05-11,,ptEW,ennny,762952008,Unknown,Peanut (substance),allergy,food,402387002,Allergic angioedema (disorder),MODERATE,267036007,Dyspnea (finding),MILD
+2000-06-23,,ptX,enbpc,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+2000-06-23,,ptX,enbpc,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,267101005,Nose running,MILD
+2000-06-23,,ptX,enbpc,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2000-06-23,,ptX,enbpc,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+2000-06-23,,ptX,enbpc,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2000-06-23,,ptX,enbpc,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2000-06-23,,ptX,enbpc,3718001,Unknown,Cow's milk (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,247472004,Wheal (finding),MILD
+2000-06-23,,ptX,enbpc,762952008,Unknown,Peanut (substance),allergy,food,247472004,Wheal (finding),MODERATE,271807003,Eruption of skin (disorder),MILD
+1976-04-09,,ptAD,encft,762952008,Unknown,Peanut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,247472004,Wheal (finding),MODERATE
+2004-10-09,,ptCK,enhpw,288328004,Unknown,Bee venom (substance),allergy,environment,271807003,Eruption of skin (disorder),MODERATE,,,
+2004-10-09,,ptCK,enhpw,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+2004-10-09,,ptCK,enhpw,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+2004-10-09,,ptCK,enhpw,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+2004-10-09,,ptCK,enhpw,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2004-10-09,,ptCK,enhpw,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2004-10-09,,ptCK,enhpw,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1983-09-08,,ptFZ,enpna,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1983-09-08,,ptFZ,enpna,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1987-03-20,,ptEL,enmnb,84489001,Unknown,Mold (organism),allergy,environment,76067001,Sneezing,MILD,56018004,Wheezing,MILD
+1987-03-20,,ptEL,enmnb,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1996-06-10,,ptFN,enoth,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1976-09-05,,ptAG,enclp,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+1978-03-14,,ptDB,enjer,111088007,Unknown,Latex (substance),allergy,environment,,,,,,
+1978-03-14,,ptDB,enjer,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1978-03-14,,ptDB,enjer,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1978-03-14,,ptDB,enjer,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1978-03-14,,ptDB,enjer,264287008,Unknown,Animal dander (substance),allergy,environment,271807003,Eruption of skin (disorder),MILD,,,
+1978-03-14,,ptDB,enjer,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1978-03-14,,ptDB,enjer,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1978-03-14,,ptDB,enjer,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+1978-03-14,,ptDB,enjer,735971005,Unknown,Fish (substance),allergy,food,300359004,Finding of vomiting (finding),MILD,271807003,Eruption of skin (disorder),MILD
+2011-02-04,,ptEV,ennmx,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+2011-02-04,,ptEV,ennmx,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+2011-02-04,,ptEV,ennmx,264287008,Unknown,Animal dander (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+2011-02-04,,ptEV,ennmx,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+2011-02-04,,ptEV,ennmx,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+2011-02-04,,ptEV,ennmx,102263004,Unknown,Eggs (edible) (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,247472004,Wheal (finding),MODERATE
+2011-02-04,,ptEV,ennmx,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,49727002,Cough (finding),MODERATE
+1980-03-10,,ptGB,enpqi,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1980-03-10,,ptGB,enpqi,10831,Unknown,Sulfamethoxazole / Trimethoprim,allergy,medication,271807003,Eruption of skin (disorder),MODERATE,,,
+1980-03-10,,ptGB,enpqi,735971005,Unknown,Fish (substance),allergy,food,300359004,Finding of vomiting (finding),MILD,878820003,Rhinoconjunctivitis (disorder),MILD
+1997-12-27,,ptGM,enqqd,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1997-12-27,,ptGM,enqqd,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1975-05-15,,ptFB,ennyb,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+1975-05-15,,ptFB,ennyb,735029006,Unknown,Shellfish (substance),allergy,food,422587007,Nausea (finding),MODERATE,271807003,Eruption of skin (disorder),MODERATE
+1989-04-18,,ptCH,engwz,264287008,Unknown,Animal dander (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+1989-04-18,,ptCH,engwz,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1989-04-18,,ptCH,engwz,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+1990-05-21,,ptP,enayc,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1990-05-21,,ptP,enayc,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1990-05-21,,ptP,enayc,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1990-05-21,,ptP,enayc,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1990-05-21,,ptP,enayc,735029006,Unknown,Shellfish (substance),allergy,food,271807003,Eruption of skin (disorder),MODERATE,62315008,Diarrhea (finding),MILD
+1990-05-21,,ptP,enayc,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,49727002,Cough (finding),MODERATE
+1990-05-21,,ptP,enayc,762952008,Unknown,Peanut (substance),allergy,food,267036007,Dyspnea (finding),MILD,,,
+1979-02-17,,ptDS,enkxp,256355007,Unknown,Soya bean (substance),allergy,food,62315008,Diarrhea (finding),MILD,,,
+1980-02-02,,ptFO,enovn,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,878820003,Rhinoconjunctivitis (disorder),MILD
+1980-02-02,,ptFO,enovn,288328004,Unknown,Bee venom (substance),allergy,environment,,,,,,
+1980-02-02,,ptFO,enovn,84489001,Unknown,Mold (organism),allergy,environment,267101005,Nose running,MILD,,,
+1980-02-02,,ptFO,enovn,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,271807003,Eruption of skin (disorder),MILD
+1980-02-02,,ptFO,enovn,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1980-02-02,,ptFO,enovn,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1980-02-02,,ptFO,enovn,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,
+1980-02-02,,ptFO,enovn,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1989-12-20,,ptBK,enete,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,422587007,Nausea (finding),MODERATE
+1993-03-10,,ptDM,enkgw,111088007,Unknown,Latex (substance),allergy,environment,,,,,,
+1993-03-10,,ptDM,enkgw,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1976-08-10,,ptDY,enllo,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1976-08-10,,ptDY,enllo,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,300359004,Finding of vomiting (finding),MILD
+1988-07-10,,ptBX,enfwr,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1988-07-10,,ptBX,enfwr,1191,Unknown,Aspirin,allergy,medication,,,,,,
+1979-02-12,,ptED,enlyc,84489001,Unknown,Mold (organism),allergy,environment,21626009,Allergic skin rash,MILD,,,
+1979-02-12,,ptED,enlyc,260147004,Unknown,House dust mite (organism),allergy,environment,,,,,,
+1979-02-12,,ptED,enlyc,264287008,Unknown,Animal dander (substance),allergy,environment,49727002,Cough (finding),MODERATE,878820003,Rhinoconjunctivitis (disorder),MODERATE
+1979-02-12,,ptED,enlyc,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1979-02-12,,ptED,enlyc,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1979-02-12,,ptED,enlyc,1191,Unknown,Aspirin,allergy,medication,21522001,Abdominal pain (finding),MODERATE,,,
+1979-02-12,,ptED,enlyc,256355007,Unknown,Soya bean (substance),allergy,food,,,,,,
+1979-02-12,,ptED,enlyc,102263004,Unknown,Eggs (edible) (substance),allergy,food,,,,,,
+1987-05-20,,ptEG,enmfe,111088007,Unknown,Latex (substance),allergy,environment,247472004,Wheal (finding),MILD,,,
+1987-05-20,,ptEG,enmfe,84489001,Unknown,Mold (organism),allergy,environment,,,,,,
+1987-05-20,,ptEG,enmfe,264287008,Unknown,Animal dander (substance),allergy,environment,878820003,Rhinoconjunctivitis (disorder),MODERATE,247472004,Wheal (finding),MILD
+1987-05-20,,ptEG,enmfe,256277009,Unknown,Grass pollen (substance),allergy,environment,,,,,,
+1987-05-20,,ptEG,enmfe,782576004,Unknown,Tree pollen (substance),allergy,environment,,,,,,
+1987-05-20,,ptEG,enmfe,412071004,Unknown,Wheat (substance),allergy,food,,,,,,
+1987-05-20,,ptEG,enmfe,735029006,Unknown,Shellfish (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,62315008,Diarrhea (finding),MILD
+1987-05-20,,ptEG,enmfe,735971005,Unknown,Fish (substance),allergy,food,267036007,Dyspnea (finding),MODERATE,300359004,Finding of vomiting (finding),MILD
+1987-05-20,,ptEG,enmfe,442571000124108,Unknown,Tree nut (substance),allergy,food,39579001,Anaphylaxis (disorder),SEVERE,49727002,Cough (finding),MODERATE
+2001-04-09,,ptDD,enjmg,1191,Unknown,Aspirin,allergy,medication,247472004,Wheal (finding),MODERATE,,,
+2001-04-09,,ptDD,enjmg,102263004,Unknown,Eggs (edible) (substance),allergy,food,247472004,Wheal (finding),MODERATE,,,

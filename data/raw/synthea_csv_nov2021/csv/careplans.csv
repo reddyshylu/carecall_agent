@@ -1,0 +1,886 @@
+Id,START,STOP,PATIENT,ENCOUNTER,CODE,DESCRIPTION,REASONCODE,REASONDESCRIPTION
+a6163025-8a2d-6f46-35d6-b93c1a7bb4c5,1981-05-02,,ptEA,enlqx,384758001,Self-care interventions (procedure),,
+68df9ed8-fd30-feed-e36a-9a9bb034b6a0,2012-03-28,2012-04-04,ptEA,enlrf,869761000000107,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+7fb2d7a3-612a-8cde-7329-851adf143b6f,2014-02-05,2014-03-08,ptEA,enlrg,276239002,Therapy (regime/therapy),,
+a8086bde-e233-fa5e-d973-f17878691ba5,2018-02-11,2018-02-25,ptEA,enlrv,869761000000107,Urinary tract infection care,38822007,Cystitis
+8fcd50fe-1890-480b-735f-df3e2307055d,2013-09-25,2013-12-16,ptGE,enpyp,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+b74522a2-d2e8-b086-9337-fcbbe463aef8,2018-06-08,2018-07-12,ptGE,enpzc,133901003,Burn care,403190006,First degree burn
+d05aebc8-3620-d269-5b22-7538f9f5e167,2012-07-20,2013-02-15,ptDJ,enkam,134435003,Routine antenatal care,72892002,Normal pregnancy
+97c154dd-4e3b-b480-aa5b-95dd5ed585e3,2021-01-08,2021-02-16,ptDJ,enkcc,91251008,Physical therapy procedure,70704007,Sprain of wrist
+3e6e9a2e-db30-fad7-38e2-0c1e5870f638,2011-07-08,2012-02-03,ptEF,enmdp,134435003,Routine antenatal care,72892002,Normal pregnancy
+9dc65286-7e64-f857-1b21-abe64878a011,2013-06-21,2014-01-17,ptEF,enmdz,134435003,Routine antenatal care,72892002,Normal pregnancy
+a1e4a0a6-89a1-82ad-3fd7-c7c1b5ef12da,2013-08-19,2015-06-05,ptEF,enmed,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+8ea67b7f-db22-c1b2-7003-6c07f0809200,2015-07-08,2015-08-02,ptEF,enmeo,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+2d2ce766-9052-4016-1e3d-5418c6df5708,2020-02-21,2020-03-12,ptEF,enmez,737471002,Minor surgery care management (procedure),,
+7ef1568d-d09d-c724-fae8-a385790eb722,2003-05-18,,ptBD,enehk,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+e62f563c-38fb-cf6b-d9b0-d9b60c72d4bb,2005-05-08,2005-12-04,ptBD,enehm,134435003,Routine antenatal care,72892002,Normal pregnancy
+0b5777c7-e323-7bd2-affc-abf1b76cdb13,2009-07-12,2010-02-14,ptBD,eneht,134435003,Routine antenatal care,72892002,Normal pregnancy
+48f4d8b6-1152-1b68-3aae-3a0dc11d874d,2011-12-23,2012-01-16,ptBD,enehx,225358003,Wound care,283385000,Laceration of thigh
+a90061ea-b451-fdfe-8d9c-580c88ae9ede,2016-11-09,2017-08-06,ptBD,eneih,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+c711d60a-f7c7-2bea-0f47-fdf556ed3388,2017-09-17,2018-04-22,ptBD,eneim,134435003,Routine antenatal care,72892002,Normal pregnancy
+edb1770d-63dc-0c2c-d6dd-261b60d39f54,2017-09-12,2017-09-19,ptBD,eneil,869761000000107,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+7c8b7b31-dcd4-60ce-4fd9-eff79698a3d2,2018-11-04,,ptBD,eneiy,134435003,Routine antenatal care,72892002,Normal pregnancy
+c3ebfa29-5f6d-fb5c-2dfa-3e4236b165f1,2015-03-18,2015-10-02,ptAO,endcy,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+d631483f-9502-2628-1d1f-ec1930c3a3e3,2018-03-20,2018-04-12,ptAO,enddf,225358003,Wound care,284551006,Laceration of foot
+30e64649-48fe-6714-bdab-8dcf5b47c2de,2018-11-29,,ptAO,enddj,276239002,Therapy (regime/therapy),,
+9e6a9e5e-f02f-e8b6-1607-1eac2e741528,2019-10-18,2020-05-29,ptAO,enddk,134435003,Routine antenatal care,72892002,Normal pregnancy
+e3529bfa-1eee-0bae-ddd2-e3e2b8b842f0,2020-03-26,2020-04-29,ptAO,enddr,91251008,Physical therapy procedure,70704007,Sprain of wrist
+d308d1b5-086d-8076-d325-28bad2311728,2021-02-08,2021-02-27,ptAO,endea,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+f046930c-0b68-c6b0-f91f-1ce03dfc478c,2016-07-28,,ptDF,enjsd,698360004,Diabetes self management plan,15777000,Prediabetes
+eb3d88f1-e865-73e8-ddfe-79169aef1201,2016-09-29,2017-04-27,ptDF,enjse,134435003,Routine antenatal care,72892002,Normal pregnancy
+2c304786-2843-c24a-e426-fc791771ce90,2004-06-29,,ptBU,enfpk,384758001,Self-care interventions (procedure),,
+5b5b5993-2f47-8a33-f922-886e52f4a349,2015-10-06,2015-10-24,ptBU,enfpq,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+b39ad7ff-0d4a-bbaf-2c89-2c4e84b8bf59,2016-02-09,2016-02-24,ptBU,enfps,91251008,Physical therapy procedure,70704007,Sprain of wrist
+f09e8923-e594-f68c-a100-7c77e4676797,2016-10-12,2020-10-13,ptBU,enfpt,170836005,Allergic disorder monitoring,,
+a2792f0e-c504-e778-f7a4-962e07c2204a,2017-01-17,2017-04-12,ptBU,enfpy,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+90755180-a540-8476-e8d0-3d73e5dffa7a,2018-05-11,2018-06-05,ptDF,enjsq,133899007,Postoperative care,,
+ad1070d7-65c5-d9a8-e8ad-5c76ec442e55,2019-02-14,2019-10-03,ptDF,enjsx,134435003,Routine antenatal care,72892002,Normal pregnancy
+dcf2d8b2-9ab3-6046-4bf8-a8eee63cc473,1995-06-23,,ptAC,encdh,384758001,Self-care interventions (procedure),,
+076fdfb9-a3a0-4f32-9e6e-cdabfb9b1171,1996-08-04,2012-08-27,ptAC,encdj,711282006,Skin condition care,24079001,Atopic dermatitis
+6e8defa3-9896-625b-91ad-9038611e7aa7,2012-12-14,2013-07-19,ptAC,encdo,134435003,Routine antenatal care,72892002,Normal pregnancy
+8f0a49c3-6450-4142-8e3a-d295da7878fa,2013-11-29,,ptAC,encea,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+dac8cf87-5ae9-e71e-8b7f-d567c2fc8957,2014-02-02,2014-03-04,ptAC,encec,276239002,Therapy (regime/therapy),,
+2c308ae5-8904-a07d-6ca6-706f559bd671,2019-02-02,2019-02-09,ptAC,encey,869761000000107,Urinary tract infection care,38822007,Cystitis
+c515882d-ebed-a6c1-a975-7c3a4a501e9e,2019-04-27,2019-05-19,ptAC,encez,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+63e4b8e1-f61a-014e-ff63-a82dc31e356e,2019-11-15,2020-07-03,ptAC,encfa,134435003,Routine antenatal care,72892002,Normal pregnancy
+c148634a-c8a2-5f14-2aae-cbafff57a9bc,2008-11-01,,ptCG,engvg,384758001,Self-care interventions (procedure),,
+34494b21-4382-2113-06b2-1213175c00bb,2012-06-13,2012-07-05,ptCG,engvl,91251008,Physical therapy procedure,44465007,Sprain of ankle
+71406241-79ad-704e-b329-a6a9f5ab92a8,2013-06-20,2013-07-12,ptCG,engvn,91251008,Physical therapy procedure,44465007,Sprain of ankle
+3933c986-6895-738f-620f-f4d22bbbb828,2020-06-26,,ptCG,engvy,170836005,Allergic disorder monitoring,,
+0e335424-fdba-4c9d-6ae9-f37ff1dc77b9,2014-02-01,2014-03-04,ptAI,encpv,276239002,Therapy (regime/therapy),,
+1555dc25-0ef9-6787-fd27-e33973170f20,2014-02-13,,ptAI,encpy,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+d7ebeeb8-aa1c-27cc-94be-a15a83f641bc,2006-05-09,,ptAY,endyr,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+87a7fe6b-29ae-1234-71cd-93885641591d,2013-04-16,2013-11-26,ptAY,endzb,134435003,Routine antenatal care,72892002,Normal pregnancy
+30f96bfb-8b4a-9acd-36f2-4e53d2da4ea3,2014-06-10,2015-01-14,ptAY,endzo,134435003,Routine antenatal care,72892002,Normal pregnancy
+7d55bcff-e17e-adde-93df-f6bd021e34d8,2015-09-01,2016-04-12,ptAY,eneae,134435003,Routine antenatal care,72892002,Normal pregnancy
+b927de0f-1efb-30ce-bfa8-35e82c1dbe7b,2018-03-25,2018-04-09,ptAY,eneas,91251008,Physical therapy procedure,70704007,Sprain of wrist
+869b28b6-8c18-74bc-5e60-b09b5e3bcaa9,2019-10-28,2020-07-28,ptAY,eneay,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+8ffed861-148d-efc8-5355-1d3e253906bd,2020-04-14,2020-11-10,ptAY,enebc,134435003,Routine antenatal care,72892002,Normal pregnancy
+752471cf-1693-d8d1-35c2-df79f420cc7d,2009-04-28,,ptCQ,enidr,408869004,Musculoskeletal care,95417003,Primary fibromyalgia syndrome
+c869d642-1efb-ef72-708a-9144ee3bb22a,2011-10-22,2012-05-19,ptCQ,enidt,134435003,Routine antenatal care,72892002,Normal pregnancy
+5f426c82-8a6e-e1ee-6ef8-277d222b82f2,2020-12-12,2020-12-12,ptAY,enebm,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+5240f0ec-4ad2-c27d-9e86-aeb79bceea02,2020-12-12,2021-01-14,ptAY,enebm,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+a7b16d2d-dcdb-046e-915a-dbf3031aaa6a,2013-01-12,2013-02-17,ptCQ,eniel,133899007,Postoperative care,,
+c0c682a1-05e9-8966-e96a-aa68db74ed20,2014-02-02,2014-03-05,ptCQ,enieq,276239002,Therapy (regime/therapy),,
+b9add97f-6c9f-3bfc-4382-7e57fa558199,2021-10-14,2021-10-21,ptAY,enebr,869761000000107,Urinary tract infection care,38822007,Cystitis
+24ad7272-641d-3397-7d89-af538026ded2,2015-03-12,2015-03-30,ptCQ,enifh,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+39f19141-b567-96b4-d56f-368665211dde,2017-10-07,2018-05-12,ptCQ,enift,134435003,Routine antenatal care,72892002,Normal pregnancy
+4a15306d-e49d-8f4f-f11d-513b56897b67,1962-10-11,,ptAH,encmw,718361005,Weight management program,,
+b12dc8bf-cd71-174b-d5cc-8d05edcd9b3d,2002-02-01,,ptAH,encnk,734163000,Care plan (record artifact),55680006,Drug overdose
+0a445078-892d-66d4-66d5-351d82c6ab9a,2014-09-21,2014-10-06,ptAH,encnv,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+b8c684a0-1b87-6659-563d-a0fc38e6ea1a,2015-05-06,2015-12-17,ptAH,encoa,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+117dd61c-2317-4d8a-e48d-dfda4b87d8db,2018-05-22,2018-12-28,ptDE,enjqa,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+0008dddb-2b82-232e-9a5b-da41a18ca564,2018-09-10,2018-09-29,ptDE,enjqc,133901003,Burn care,403191005,Second degree burn
+2a0560d3-f469-ad6f-9a7e-01649be32b73,2019-01-14,,ptDE,enjqf,386522008,Overactivity/inattention behavior management,192127007,Child attention deficit disorder
+d247e267-4a94-9768-f3e6-b8bd771cdf23,1985-07-25,1985-08-14,ptBT,enfni,91251008,Physical therapy procedure,44465007,Sprain of ankle
+bb2bb2d3-6689-b9be-0431-6355ad305868,2008-01-08,2008-01-24,ptBT,enfnt,91251008,Physical therapy procedure,44465007,Sprain of ankle
+2579a186-d174-2199-1e8e-f73ce3cb5709,2012-01-15,2012-02-20,ptBT,enfnx,47387005,Head injury rehabilitation,62564004,Concussion with loss of consciousness
+37b8d8ee-a476-f1f4-44f6-d761aa66ecb5,2014-04-14,,ptBT,enfof,276239002,Therapy (regime/therapy),,
+7183f2fa-6351-106e-9a84-4814365c35a6,2017-06-04,2017-12-31,ptBT,enfoq,134435003,Routine antenatal care,72892002,Normal pregnancy
+7c67cad1-3bc7-714e-4ba2-ca5d1682a4a8,2021-11-12,,ptBT,enfpj,91251008,Physical therapy procedure,70704007,Sprain of wrist
+43c422e0-934d-972c-6163-021e9bf8d850,1984-04-28,,ptCX,enivz,698360004,Diabetes self management plan,15777000,Prediabetes
+46d98f3b-48fc-949f-80cf-fae50fa701b8,2012-05-31,2012-06-27,ptCX,eniwm,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+22fdc06c-7b5a-d34f-1557-a99d6cdfd948,2014-02-03,2014-03-05,ptCX,eniwo,276239002,Therapy (regime/therapy),,
+e5bb393f-fd86-47fd-0e37-f05dd6014350,1983-04-03,,ptA,enaab,718361005,Weight management program,,
+8b185027-b361-55b3-68da-c73ea4588f5f,1998-05-17,,ptA,enaag,698360004,Diabetes self management plan,15777000,Prediabetes
+9d1aec3d-8d57-b050-4088-a1bcda3b300e,2012-11-25,2012-12-20,ptA,enaao,133901003,Burn care,403191005,Second degree burn
+5342a72f-b2ac-7e53-14eb-1078c546c87a,2014-02-04,2014-03-06,ptA,enaar,276239002,Therapy (regime/therapy),,
+e8116b48-c925-0458-fe51-7294708e7005,2014-06-11,,ptA,enabi,276239002,Therapy (regime/therapy),,
+11f70cbd-7058-dee3-bf1f-08ade1fb616b,2015-10-26,2016-04-03,ptA,enabo,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+7880269e-85a2-22dc-fc8a-5092092b2425,2016-01-13,2016-02-01,ptA,enabr,91251008,Physical therapy procedure,44465007,Sprain of ankle
+812d98b6-b9b5-c6f0-cb6f-70e750c0bac2,2017-01-27,2017-03-09,ptA,enabv,47387005,Head injury rehabilitation,62564004,Concussion with loss of consciousness
+5b35cba3-bf61-e918-579b-a59561911abd,2020-09-11,2021-05-02,ptA,enacj,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+9b268a60-ab55-b426-7aba-7dbaead1e36d,2015-03-04,2015-09-30,ptCN,enhxs,134435003,Routine antenatal care,72892002,Normal pregnancy
+07d7599f-3feb-f43d-fd7b-b3d68da8fba3,2019-03-13,,ptCN,enhym,698360004,Diabetes self management plan,15777000,Prediabetes
+e577f993-418d-747b-6127-41f50d60d999,2020-01-15,2020-01-30,ptCN,enhyp,737471002,Minor surgery care management (procedure),,
+308744be-49bb-3a3e-97d2-b9945064ddfe,1995-06-26,,ptFD,enoee,698360004,Diabetes self management plan,15777000,Prediabetes
+cd676469-8cac-8659-0af0-1c1b4434ba3f,2014-02-05,2014-03-07,ptFD,enoep,276239002,Therapy (regime/therapy),,
+fa1490ed-bc0c-60db-6609-88332095ee64,2016-06-13,,ptFD,enofd,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+05b31564-66e5-b3c9-0865-e8ac1294d583,2013-10-27,2013-11-16,ptAU,endqm,91251008,Physical therapy procedure,44465007,Sprain of ankle
+af98ca33-55b2-82a5-d56f-91cd25a0b783,2016-02-12,,ptAU,endqq,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+892019fb-4e70-bc46-2537-4910ab567aed,2020-10-16,2021-05-21,ptAU,endrc,134435003,Routine antenatal care,72892002,Normal pregnancy
+36b462d2-afd6-5fa4-0e58-c12ead6127f2,2017-05-08,2017-06-07,ptBB,eneev,276239002,Therapy (regime/therapy),,
+8bed006f-6b80-f179-5ab6-10d2813c37e8,2017-09-03,,ptBB,enefi,276239002,Therapy (regime/therapy),,
+7df13fb4-1a9f-0f39-8e3d-eca02cee6b49,2019-03-09,2019-05-26,ptD,enahx,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+95497bd5-e818-57e8-4250-f08e3ef91316,2019-05-26,,ptD,enahz,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+c2de6499-89da-1ccf-f258-537a4e7807e7,1963-12-29,,ptAP,endeg,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+c082ae9e-0544-bbcf-43d3-5c49c03a570e,1983-05-01,,ptT,enbhh,384758001,Self-care interventions (procedure),,
+772a760e-6a00-a469-ed83-a5f3063e07b3,2000-01-10,,ptT,enbhj,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+e78565b5-5ccc-65e6-20e2-ed4b98ad39ba,2001-01-15,,ptT,enbhl,698360004,Diabetes self management plan,15777000,Prediabetes
+376ee0a3-a19e-48f4-f70c-1b3fd52cabac,2009-05-04,2015-03-30,ptT,enbhx,134435003,Routine antenatal care,72892002,Normal pregnancy
+f3b5f5f8-7941-ce93-b176-bf4636b6e41d,1991-06-02,,ptAP,endfk,698360004,Diabetes self management plan,15777000,Prediabetes
+ad733d0e-6053-7fd9-361e-cacc53d2293f,2017-08-07,2018-03-12,ptT,enbis,134435003,Routine antenatal care,72892002,Normal pregnancy
+c45c48d3-c377-1cfc-dfe5-6bb62839cf75,2018-11-26,2019-06-10,ptT,enbje,134435003,Routine antenatal care,72892002,Normal pregnancy
+ccfcd37d-e9c6-37fb-e80f-60df18f7a863,2021-07-13,2021-09-02,ptT,enbju,385691007,Fracture care,65966004,Fracture of forearm
+da42170c-fbe2-8909-e617-d4ff3989395f,1973-07-14,1973-08-12,ptBA,enecj,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+637a0fb9-134e-8aa9-fc24-9f7c42c6ed89,2003-08-20,,ptBA,enecy,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+c55abf23-e2ee-df5d-f53c-12625c488793,2006-08-07,,ptBA,enedb,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+b54c1d93-a7eb-24ed-8756-d4534e1eeef1,2011-10-07,2012-07-09,ptBA,enedj,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+6f7577f2-a899-36ce-35a2-be9b2f5e2e7f,2015-07-27,,ptBA,eneds,698360004,Diabetes self management plan,15777000,Prediabetes
+98b013b6-b33a-1108-3566-26fe552a9c70,2018-04-24,2018-06-29,ptBA,enedy,91251008,Physical therapy procedure,307731004,Injury of tendon of the rotator cuff of shoulder
+4f7016b4-f03c-8037-9d08-5da6e7d9618b,2014-07-09,2017-06-25,ptJ,enast,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+12a93955-e350-00b2-023b-ab28e9aec412,2017-02-21,2017-03-25,ptJ,enasv,91251008,Physical therapy procedure,44465007,Sprain of ankle
+0e27b3ac-dc07-e2f0-98fd-6d586487457b,1974-01-30,,ptCC,engld,384758001,Self-care interventions (procedure),,
+3059e478-ab59-1527-83d3-3e4fb9186466,1991-05-27,,ptCC,englh,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+aee60f8e-bf62-7c52-004c-82f055c29375,1995-06-19,,ptCC,engll,698360004,Diabetes self management plan,44054006,Diabetes
+bf8440e4-5813-ebca-2f01-c6787ae03374,2020-12-07,,ptCC,engok,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+f8255ce0-ca8f-51ed-8d78-b2f478201368,2018-02-25,2018-07-03,ptFY,enpmc,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+432a2a47-ea26-429d-e0a6-1e5bb9b37fe3,2019-11-26,2020-07-14,ptFY,enpmh,134435003,Routine antenatal care,72892002,Normal pregnancy
+f9136d6a-841c-9082-f5b4-a961cdd91f87,2020-07-23,2020-07-23,ptFY,enpmu,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+52d317ce-c881-f100-f670-cdc48a9fdc6b,2020-07-23,2020-08-11,ptFY,enpmu,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+bbbbad54-43db-102a-660f-ffd3ef9a3fc7,2012-09-05,2013-04-10,ptCY,enixn,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+a401ffb7-8fd9-e7eb-dbc1-a2758ad15f8c,2018-05-28,2019-08-02,ptCY,enixv,386522008,Overactivity/inattention behavior management,192127007,Child attention deficit disorder
+60e6861d-6931-a8a3-b0dc-ec793b7e7f37,2018-06-08,2018-07-23,ptCY,enixw,385691007,Fracture care,65966004,Fracture of forearm
+f7ca5e97-df58-63eb-ac9f-febe196a8ac0,2014-02-21,2014-03-26,ptB,enacr,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+01d22ad9-8bbf-6d54-0a77-106a2131d4f6,2018-06-28,2018-09-14,ptB,enacz,385691007,Fracture care,33737001,Fracture of rib
+6ee9bae7-e339-e5b1-d260-9433510001ab,2020-05-16,2020-06-16,ptB,enadf,276239002,Therapy (regime/therapy),,
+3672e5a3-b5dc-fd83-1929-b1fc0a603fca,2020-06-04,,ptB,enadl,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+15f9a75d-2f36-4ad3-b7e1-96c5e8e4a415,2014-03-12,2014-07-07,ptEX,ennqy,385691007,Fracture care,263102004,Fracture subluxation of wrist
+6aacda99-9379-7966-284b-858f6193517c,2019-01-19,2019-09-21,ptEX,ennrh,711282006,Skin condition care,40275004,Contact dermatitis
+ae4579bf-39e9-328b-5cca-b2d0ba7dd197,2019-02-09,,ptEX,ennrj,384758001,Self-care interventions (procedure),,
+91542001-78bc-0ac6-c1d6-bcf6caeecf14,2019-02-09,,ptEX,ennrk,170836005,Allergic disorder monitoring,,
+6a0dd15f-a9bf-4b23-e759-441c519a7eea,2019-03-03,2019-10-06,ptEX,ennrm,134435003,Routine antenatal care,72892002,Normal pregnancy
+3b2fea5c-aa7d-9272-24a5-004e744d7498,2019-03-22,2019-04-09,ptEX,ennrn,225358003,Wound care,283385000,Laceration of thigh
+143f22b9-5489-86b8-4c65-18cb9e680b4c,2020-02-29,2020-03-29,ptEX,ennsm,91251008,Physical therapy procedure,44465007,Sprain of ankle
+a9119a77-3960-5a0f-3bab-8766c0bcefb8,2003-06-01,,ptC,enadw,384758001,Self-care interventions (procedure),,
+4a8b64ef-bd8a-65c4-4db2-dc59dfb68b47,2015-05-13,2019-05-28,ptC,enaec,170836005,Allergic disorder monitoring,,
+ebfa3758-da3f-b692-46b5-226eea69d69e,2015-12-03,2015-12-22,ptC,enaem,91251008,Physical therapy procedure,70704007,Sprain of wrist
+ad8c40b1-ad47-91c6-ce2e-c1bb6e0fb417,2019-01-31,2019-02-12,ptC,enagp,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+ac5b9411-6c0e-6b4b-dcda-960e9f5dadeb,2019-11-24,2019-12-13,ptC,enagz,91251008,Physical therapy procedure,44465007,Sprain of ankle
+0b692876-afb7-2b16-258f-d32af7b98e36,2021-01-28,2021-01-28,ptC,enahd,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+cabd6e19-9858-751e-c88d-0864b02afba4,2021-01-28,2021-02-24,ptC,enahd,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+aee6acd7-f50b-8c07-3cd7-59219e8b2d9a,2011-05-11,2011-12-06,ptCP,enibm,134435003,Routine antenatal care,72892002,Normal pregnancy
+044e5478-8d53-425d-8833-c1bbf9a2b735,2014-03-29,,ptCP,enibt,276239002,Therapy (regime/therapy),,
+0f1ac946-cbd2-4af5-5c89-ea3459935487,2014-07-14,2014-07-29,ptCP,enibv,225358003,Wound care,284549007,Laceration of hand
+f008be32-efe8-03c9-aeda-0a52b4bbafc0,2016-01-19,2016-08-24,ptCP,enicf,134435003,Routine antenatal care,72892002,Normal pregnancy
+93c415c0-c4fc-5083-209e-969e8825c165,2016-02-23,,ptCP,enich,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+9b3f38ba-161e-c3b6-54cf-c710740b6950,2020-07-29,2021-02-09,ptCP,enicx,134435003,Routine antenatal care,72892002,Normal pregnancy
+58c54396-3507-1212-59a9-e67cc7fde89a,2021-04-04,2021-04-22,ptCP,enidi,737471002,Minor surgery care management (procedure),,
+d0dca294-b651-c624-841e-82bb71da03a4,2014-03-28,2014-05-03,ptFQ,enozr,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+5e2b279d-0a0a-0331-01ff-315e43e1a41c,2016-10-14,,ptFQ,enozt,698360004,Diabetes self management plan,15777000,Prediabetes
+9bcfc461-9e3e-6968-cd03-65c7307bb889,2012-09-10,2012-09-28,ptAL,encwd,91251008,Physical therapy procedure,44465007,Sprain of ankle
+6c47f0e6-9bb9-8798-9a28-16be7d938a01,2018-11-15,2018-12-16,ptAL,encwt,276239002,Therapy (regime/therapy),,
+85d75a72-2cc6-ec49-5a0e-7b6fcf1c84a5,2018-12-04,,ptAL,encwz,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+e97dab6f-d23e-8d0a-aa1a-9eb8abc740f9,2020-12-15,,ptAL,encxn,698360004,Diabetes self management plan,15777000,Prediabetes
+318d2d63-2c95-bf87-c0c9-f8c032a0f70d,2012-02-02,2012-09-06,ptV,enblh,134435003,Routine antenatal care,72892002,Normal pregnancy
+eb9a1094-853e-dff8-11ca-43e5ba82b85a,2012-04-21,2012-08-15,ptV,enblk,385691007,Fracture care,58150001,Fracture of clavicle
+92feb3df-2b3d-ae26-006c-a44d952bb2bd,2013-01-30,2013-02-06,ptV,enblu,869761000000107,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+ee7d624d-bfbb-5e13-e9aa-2eaf1df13567,2015-05-18,2015-07-30,ptV,enbly,91251008,Physical therapy procedure,30832001,Rupture of patellar tendon
+e7b3571b-cf4a-d80c-d266-10eaf575cf31,2020-03-04,2020-03-11,ptV,enbmg,869761000000107,Urinary tract infection care,38822007,Cystitis
+b87fd9fb-190e-64f2-2b26-e9c1cf52628e,1992-05-13,,ptBR,enfin,698360004,Diabetes self management plan,15777000,Prediabetes
+a2249d09-ebf2-5ee6-7689-002b93473d61,2014-01-31,2014-02-24,ptBR,enfjf,276239002,Therapy (regime/therapy),,
+d841c5e5-c798-2c5e-0816-4d7506f50b1a,2014-03-26,,ptBR,enfjo,276239002,Therapy (regime/therapy),,
+845bc5aa-6324-32e7-f869-28c80842c285,1993-08-17,,ptBH,eneou,698360004,Diabetes self management plan,15777000,Prediabetes
+aa307035-bc75-fc0b-f74b-2e6d933d6a89,2019-04-25,2019-05-09,ptBH,enepr,869761000000107,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+bc53f5da-10ec-66dd-0efe-a12dc4652809,2020-12-17,2020-12-25,ptBH,enepv,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+cf132bc5-332e-6250-55ea-f8742645b363,2021-02-19,2021-03-10,ptBH,enepy,91251008,Physical therapy procedure,70704007,Sprain of wrist
+03c5e3f6-b073-946d-87e8-1792dce62386,1986-11-02,,ptEU,ennjn,384758001,Self-care interventions (procedure),,
+1907997f-2420-1b87-3aa0-4f3f28e2ebc8,2003-12-31,,ptEU,ennjq,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+a6930608-a986-7f2b-4fd6-28bcd3215c47,2010-12-01,,ptEU,ennjz,699728000,Asthma self management,195967001,Asthma
+96be039f-1a89-91a1-39c6-058968440625,2011-12-12,2012-02-15,ptEU,ennkb,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+f6448a43-c383-00d8-897f-5af3ded41850,2014-01-31,2014-03-02,ptEU,ennkp,276239002,Therapy (regime/therapy),,
+3bb8e3e3-8120-ac17-9d77-4656affbb68e,2016-02-17,2016-10-05,ptEU,ennlg,134435003,Routine antenatal care,72892002,Normal pregnancy
+9354cb87-0507-9cac-d5cf-0b9dca7b72e4,2018-03-28,2018-11-14,ptEU,ennlw,134435003,Routine antenatal care,72892002,Normal pregnancy
+c7cbe68e-a2fc-b770-59ca-093b146038a6,2020-04-01,,ptEU,ennmn,698360004,Diabetes self management plan,15777000,Prediabetes
+2ca60be3-0cb5-0c68-5b24-ef9d9cdaf3ed,2021-08-04,2021-08-11,ptEU,ennmv,869761000000107,Urinary tract infection care,45816000,Pyelonephritis
+6cf93227-11ab-335c-0cce-3b95448c3ddf,2011-10-27,2012-08-28,ptEZ,ennvl,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+133877a6-1996-70bb-c593-1cba84d625ef,2014-10-10,,ptEZ,ennvr,276239002,Therapy (regime/therapy),,
+be7c5d9c-aa26-db0a-fa1a-837af59c01dd,2016-08-10,2016-09-20,ptEZ,ennvy,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+75876abe-6677-c0a2-13fc-4c70649aa45e,2021-07-28,2021-10-19,ptEZ,ennwk,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+37a258fe-4c35-47c2-6aca-d8972a7798a1,2000-09-16,2017-07-19,ptE,enail,711282006,Skin condition care,24079001,Atopic dermatitis
+f05a4402-6a10-f4d3-78ef-ee16f222a595,2000-10-05,,ptE,enaim,384758001,Self-care interventions (procedure),,
+af6629e8-49ff-b546-6bf6-27a77d22a5fa,2013-05-09,2017-05-04,ptE,enaip,170836005,Allergic disorder monitoring,,
+a42fc39c-36bc-b222-dbf0-0cb303d7a48f,2018-10-29,2019-07-04,ptE,enall,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+ca21ad0e-c0d1-64de-ce5c-313e91bd48d6,2012-02-16,2013-01-10,ptCO,enhyv,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+fcf6223f-b6e0-d3b2-32c9-aa9dd50d9fdd,2013-01-14,2013-02-05,ptCO,enhzd,225358003,Wound care,284551006,Laceration of foot
+4a8936f4-a022-1009-777c-ec856a0262a7,2018-05-15,2018-06-02,ptCO,eniaj,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+47fc2510-8e7d-d0c2-b5ac-ea53a9569c08,2019-03-19,2019-04-13,ptCO,eniaq,225358003,Wound care,284549007,Laceration of hand
+b55128f2-3011-8416-58c0-ac21963b8a01,2019-10-10,2020-05-14,ptCO,enias,134435003,Routine antenatal care,72892002,Normal pregnancy
+b3313377-1e2d-c362-2c5b-3c77dd2a3887,2021-01-10,2021-01-10,ptCO,enibe,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+5998b957-ef89-259d-3a01-3351ea27fe9d,2021-01-10,2021-02-07,ptCO,enibe,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+9682f6d8-a161-af59-6ab4-32800bc38413,1955-12-11,,ptEC,enluo,384758001,Self-care interventions (procedure),,
+4099a5b6-9913-5560-bbe0-40c44fd954c3,1982-11-06,,ptEC,enluv,698360004,Diabetes self management plan,15777000,Prediabetes
+e56c730c-b7bd-fcdb-168b-6e1a70aa02c9,1996-02-25,,ptEC,enlvd,734163000,Care plan (record artifact),55680006,Drug overdose
+7f5116c7-5e9d-448f-310d-8c48214dc41c,2014-09-30,,ptEC,enlwe,408869004,Musculoskeletal care,239872002,Osteoarthritis of hip
+674a25ab-3dae-2686-a80e-09071c9b84ea,2020-01-23,2020-02-07,ptEC,enlxr,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+14524a09-e61e-5b54-7c44-4f42f8ffd0b8,1985-04-09,,ptDQ,enkqr,698360004,Diabetes self management plan,15777000,Prediabetes
+935462e1-267f-6665-0070-57f47686ca6d,1992-05-05,,ptDQ,enkqy,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+50729bce-caad-9e6f-b9a8-f23b99e44a47,1996-09-02,,ptDQ,enkrf,734163000,Care plan (record artifact),55680006,Drug overdose
+51154ce5-9514-4056-d483-61809933196f,2017-05-22,2017-09-05,ptDQ,enktc,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+d8bb8284-dc1d-ca31-a8cd-7ed5465652fa,2011-11-28,2012-07-10,ptGI,enqhu,134435003,Routine antenatal care,72892002,Normal pregnancy
+db871876-cced-4e24-a8f2-1d79b7376c25,2013-12-02,2014-07-08,ptGI,enqii,134435003,Routine antenatal care,72892002,Normal pregnancy
+ec650856-d86a-4df3-80bb-ab1d0d9d89d0,2015-01-29,2015-02-24,ptGI,enqiu,91251008,Physical therapy procedure,44465007,Sprain of ankle
+94521024-a657-720e-d3a4-031d285b7657,2017-09-05,2018-04-10,ptGI,enqiz,134435003,Routine antenatal care,72892002,Normal pregnancy
+d235b0a9-2982-0a04-5f6e-2a61acf64cb4,2018-03-22,2018-04-21,ptGI,enqjh,91251008,Physical therapy procedure,70704007,Sprain of wrist
+3821b664-6a27-6822-6b5a-086ee602af35,2020-07-07,2021-02-08,ptGI,enqjo,134435003,Routine antenatal care,72892002,Normal pregnancy
+eef7f79c-a3bf-c382-34aa-a05e2f9cfd99,1991-11-16,,ptDN,enkjh,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+8382b8fb-57de-5263-8b50-a413fa8d9499,2001-01-05,,ptDN,enkjr,734163000,Care plan (record artifact),55680006,Drug overdose
+46783ad9-6d4b-ebd5-bc7e-9d8d87754b5c,1982-05-04,,ptBL,enevl,384758001,Self-care interventions (procedure),,
+f41240ec-ecfe-9270-c1ee-6e81c4159440,2011-09-04,2012-04-08,ptBL,enevu,134435003,Routine antenatal care,72892002,Normal pregnancy
+6b9fa032-753d-1215-8e9b-152d4cfeda9f,2019-07-31,2019-10-19,ptFG,enokt,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+fd1e0afb-cf1b-6476-3d45-96d76b8fac1f,1976-01-25,1976-02-17,ptGK,enqmv,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+b3aeaef9-6f54-8d23-95ea-f682f5a86c8c,1978-06-21,,ptGK,enqmx,698360004,Diabetes self management plan,15777000,Prediabetes
+d777af6b-42b9-93da-9a4f-a9df5e2ed70c,2006-04-05,,ptGK,enqni,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+82cd1b24-de0c-1121-1e07-ec4ca47cff81,2012-09-13,2012-10-20,ptGK,enqnm,91251008,Physical therapy procedure,70704007,Sprain of wrist
+04b7311f-227f-a3d6-25c0-b2ba009ad10b,2013-10-02,2014-01-26,ptGK,enqno,385691007,Fracture care,263102004,Fracture subluxation of wrist
+bcd6b30d-e22b-80ff-4437-a70ec42f9a55,2014-01-31,2014-02-24,ptGK,enqnq,276239002,Therapy (regime/therapy),,
+430e40ec-2d44-49c3-5deb-465fe50006b7,1986-11-05,,ptGG,enqdt,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+81d42391-0b3d-6084-1171-3415d44b404b,2014-12-10,2015-07-29,ptGG,enqfl,134435003,Routine antenatal care,72892002,Normal pregnancy
+47b786ee-0b57-1e6e-0137-65faa71423a9,2020-12-15,2021-01-03,ptGG,enqgq,91251008,Physical therapy procedure,44465007,Sprain of ankle
+a52fee9f-5c77-7d5a-eba2-dbe9cd5932d5,1990-08-26,,ptBG,enemy,698360004,Diabetes self management plan,15777000,Prediabetes
+dcd395dc-b549-472a-e4c9-cec79c0cdc98,2015-07-19,2016-02-21,ptBG,eneno,134435003,Routine antenatal care,72892002,Normal pregnancy
+fba55dec-f25d-7a95-bda1-283046751a4d,2021-01-22,2021-06-27,ptBG,eneok,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+47e09107-d2b3-8cde-e526-fe89cbe83be6,2021-02-21,,ptBG,eneon,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+885c702e-4a77-9b1a-1f2c-0218233d0b8a,2000-02-19,,ptBZ,engbp,734163000,Care plan (record artifact),55680006,Drug overdose
+5d225d54-4e09-74e8-e043-136f72978233,2013-12-26,2014-01-14,ptBZ,engby,225358003,Wound care,370247008,Facial laceration
+7bf002d5-ff58-c25a-1d2f-53cf664c63dc,2019-09-28,2019-10-16,ptBZ,engdv,91251008,Physical therapy procedure,44465007,Sprain of ankle
+d84337b9-a105-6b82-4cc1-91cd3db70b18,1994-10-02,,ptBO,enfbf,384758001,Self-care interventions (procedure),,
+7838e6e5-3728-6eca-c53d-5a5da2229108,2012-04-01,,ptBO,enfbk,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+cd7154cf-ce61-f968-edbb-f7ad178f056a,2003-05-11,,ptGP,enqzr,698360004,Diabetes self management plan,15777000,Prediabetes
+0a285de7-d32e-82ae-cab6-d40cf7b0c1a7,2013-09-29,2013-12-07,ptBO,enfbr,91251008,Physical therapy procedure,30832001,Rupture of patellar tendon
+558f80ee-82bf-a6db-8589-36810a1509a7,2013-11-17,2014-07-06,ptGP,enqzy,134435003,Routine antenatal care,72892002,Normal pregnancy
+3c22abfb-5a7d-de60-7c9e-b0fcdb4315ff,2017-07-08,2018-05-06,ptBO,enfcd,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+b2d7d7f9-80f9-f649-43d5-1baf7d94261d,2016-08-17,2016-09-05,ptGP,enrao,737471002,Minor surgery care management (procedure),,
+89393b55-cbe8-ce32-092e-4b647279fd81,2021-08-25,2021-08-25,ptGP,enrat,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+1862c813-4411-a123-dcc0-955f6dd245b4,2021-08-25,2021-09-16,ptGP,enrat,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+8d7764bc-c893-cd29-9979-3f026c0b049d,2006-10-17,,ptAT,endno,384758001,Self-care interventions (procedure),,
+675cd235-bc13-89e9-04bc-b897fb1823fd,2009-12-08,,ptAT,endnq,699728000,Asthma self management,233678006,Childhood asthma
+4bb3d708-60eb-be91-b565-6f832acc45bc,2019-04-24,,ptAT,endon,170836005,Allergic disorder monitoring,,
+0c18aa4b-7978-784d-d3b2-584bd7da3108,1983-01-19,,ptGJ,enqkb,718361005,Weight management program,,
+e6bd2271-4127-3bf7-f172-35b947d92cf5,1992-03-11,,ptGJ,enqkc,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+6012e8dc-e57e-a365-cb0b-f367a3bd01a0,2012-04-30,2012-05-23,ptGJ,enqld,91251008,Physical therapy procedure,44465007,Sprain of ankle
+53c14ee4-8826-9d85-d180-c420879bf7e5,2014-01-30,2014-07-23,ptGJ,enqln,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+86bba482-9924-cdbc-bf7c-06368eb778ed,2014-12-17,2015-07-15,ptGJ,enqlt,134435003,Routine antenatal care,72892002,Normal pregnancy
+0889860e-6bdb-ca92-c36a-0da442e56743,2016-02-21,2016-03-19,ptGJ,enqmg,225358003,Wound care,370247008,Facial laceration
+2b86207c-c734-421b-7e89-f816e32a9507,2015-04-04,2015-04-21,ptES,ennek,225358003,Wound care,283371005,Laceration of forearm
+e27a797d-1e5f-1b05-bbe2-2b8735160173,2009-11-21,2010-07-03,ptFM,enorw,134435003,Routine antenatal care,72892002,Normal pregnancy
+31315553-f099-6583-a60b-76ccc6b64fa4,2014-03-27,,ptFM,enosd,276239002,Therapy (regime/therapy),,
+4af45334-c0dc-c296-bdab-52cde9abcc69,2015-02-21,,ptFM,enosf,698360004,Diabetes self management plan,15777000,Prediabetes
+512d4d42-413f-0b5b-be21-e89235f45bb6,2017-05-20,,ptFM,enosj,134435003,Routine antenatal care,72892002,Normal pregnancy
+2e0a8127-931a-cfd2-0698-c46f278c772a,2018-10-31,2018-12-08,ptFM,enoss,47387005,Head injury rehabilitation,62564004,Concussion with loss of consciousness
+19aa5ea9-ea21-a602-2543-522ff3998765,2006-03-05,,ptGQ,enrau,711282006,Skin condition care,24079001,Atopic dermatitis
+2ae2d9c9-d0eb-b749-1cc3-4044536003cf,2006-03-21,,ptGQ,enrav,384758001,Self-care interventions (procedure),,
+a25298e1-e435-b0db-7e57-955bf598b79e,2013-12-05,2014-09-20,ptGQ,enraz,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+75523bbd-4d3d-7786-8bab-096042e5a798,1944-04-23,1944-06-03,ptDG,enjtt,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+d58bd7b8-bcff-9b40-3733-eab3d128a766,2015-08-05,2015-09-01,ptGQ,enrbd,91251008,Physical therapy procedure,44465007,Sprain of ankle
+93b35c69-e997-5db9-b788-ed19f801680c,1985-02-23,,ptDG,enjuf,408869004,Musculoskeletal care,239872002,Osteoarthritis of hip
+1cb7ab7b-629a-9fa4-6e45-0a910527b83d,1994-11-25,,ptDG,enjum,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+50336eb9-be9c-10f5-165f-cffdf6e920b6,2018-09-22,,ptGQ,enrbl,170836005,Allergic disorder monitoring,,
+bff74bd3-ff71-5af7-a903-d61f37b666bd,2014-03-27,,ptDG,enjvt,276239002,Therapy (regime/therapy),,
+443183d3-93cc-20ba-e364-6a22fa154b03,2002-07-27,,ptBY,enfyf,718361005,Weight management program,,
+71d6a0d6-3011-ff72-cf66-a99d6393f806,2004-08-07,,ptBY,enfyg,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+e92b217c-edc3-24ba-42da-9d28235c9f62,2012-12-01,2013-07-06,ptBY,enfys,134435003,Routine antenatal care,72892002,Normal pregnancy
+d99529eb-8deb-8661-6e55-a786dbb3fb4d,2014-09-27,2015-05-09,ptBY,enfzl,134435003,Routine antenatal care,72892002,Normal pregnancy
+fda9cf29-6ae1-f7c6-2a4b-31ef038acb15,2016-10-01,2017-04-29,ptBY,engab,134435003,Routine antenatal care,72892002,Normal pregnancy
+1a709eb7-8073-b410-d1a5-6a829d762467,2020-08-29,2021-03-27,ptBY,engaq,134435003,Routine antenatal care,72892002,Normal pregnancy
+8865ae2c-8005-0f56-eae3-d274495ee688,2021-01-25,2021-01-25,ptBY,engax,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+164d15e7-1cfe-0fc1-8c4e-ac944ddbd635,2021-01-25,2021-02-12,ptBY,engax,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+8810314d-e032-7983-14ac-06598504d46f,2000-06-30,,ptAQ,endjn,698360004,Diabetes self management plan,15777000,Prediabetes
+81c57317-a776-4a1d-564c-e2d9e59fd855,2004-07-30,,ptAQ,endjp,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+474e9d70-2a59-8257-2cd4-7d874f327152,2014-06-14,2014-07-18,ptAQ,endkf,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+11e27aab-2e3c-e3b7-df5e-233adf90915b,2007-01-02,,ptAF,encjc,384758001,Self-care interventions (procedure),,
+bf0912dd-f9ec-cf58-2ccd-e1190679e9fb,2017-10-04,2017-10-18,ptAF,encjk,91251008,Physical therapy procedure,44465007,Sprain of ankle
+94365e76-e4e0-2c5a-a12b-082871d900b4,2018-10-02,,ptAF,encjm,170836005,Allergic disorder monitoring,,
+c24c011f-98ab-e146-a94c-b3d469f4878e,2012-11-18,2012-12-07,ptM,enave,225358003,Wound care,370247008,Facial laceration
+8a2adc14-45fd-8476-b4f7-4a61558c984f,2014-03-22,,ptM,enavh,276239002,Therapy (regime/therapy),,
+1638e82e-689c-b91e-e1c6-4e8a128bee03,1982-06-28,,ptET,enner,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+ddf50bc8-0521-e106-61f9-6fd661ffd37c,2008-07-25,,ptET,ennfw,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+6b0f421a-404d-5680-f4d0-9746cac5d9b3,2011-12-12,,ptET,ennga,698360004,Diabetes self management plan,15777000,Prediabetes
+7ab771e0-f20b-bd76-c198-2698b1f4bd9b,2015-06-03,,ptET,enngh,735984001,Heart failure self management plan,88805009,Chronic congestive heart failure (disorder)
+6051f8d0-ee1d-e5af-e042-9fcf4cf8a062,2015-11-30,2015-12-01,ptET,enngj,736353004,Inpatient care plan (record artifact),88805009,Chronic congestive heart failure (disorder)
+3d1f3223-def3-6a98-1fb4-5a7bbe5b81a3,2016-11-25,2016-11-26,ptET,enngn,736353004,Inpatient care plan (record artifact),88805009,Chronic congestive heart failure (disorder)
+255bb987-d8a4-0ce9-0998-bc107f1c68b1,2017-07-27,2017-08-30,ptET,ennit,91251008,Physical therapy procedure,44465007,Sprain of ankle
+3b865d23-a0d8-b8a9-effa-dcad2f6922c7,2021-02-03,2021-02-05,ptET,ennjj,736353004,Inpatient care plan (record artifact),88805009,Chronic congestive heart failure (disorder)
+c2cb4c80-b838-4f48-b450-3aa3b837f65a,2015-11-26,2016-06-23,ptFS,enpbm,134435003,Routine antenatal care,72892002,Normal pregnancy
+ad4b85ca-73d2-28b8-e14b-17de038eb0c5,2016-02-03,2016-03-20,ptFS,enpbp,133901003,Burn care,403192003,Third degree burn
+ca1825d0-9deb-5d84-5cb2-b735efa22216,2018-11-29,2019-07-11,ptFS,enpcb,134435003,Routine antenatal care,72892002,Normal pregnancy
+55a8725c-60d5-7054-0f1d-7dd96e62863e,2014-07-04,2015-02-20,ptFW,enpht,134435003,Routine antenatal care,72892002,Normal pregnancy
+237d77ed-064e-7a59-ffa3-ca8482adf148,2018-10-29,2018-11-18,ptFW,enpij,225358003,Wound care,283385000,Laceration of thigh
+6d31597a-14c5-24fb-fc23-0a47525daa84,2019-11-23,2021-01-31,ptFW,enpik,711282006,Skin condition care,40275004,Contact dermatitis
+25f0cbba-bb17-71de-57d5-838767950683,2019-12-09,,ptFW,enpim,384758001,Self-care interventions (procedure),,
+0b09ddf5-75e5-8e20-6793-d9840bd69737,2019-12-09,,ptFW,enpin,170836005,Allergic disorder monitoring,,
+f7515cde-76b1-c119-38ae-2c6311e38f92,2019-12-17,2020-01-12,ptFW,enpio,225358003,Wound care,283385000,Laceration of thigh
+165f937c-9dd5-5ddb-a897-cd492dbbd2cb,2021-10-22,,ptFW,enpjt,698360004,Diabetes self management plan,15777000,Prediabetes
+0318fbd3-fb18-5084-6d06-6e024294ee4c,2009-06-17,2019-04-03,ptGF,enpzp,386522008,Overactivity/inattention behavior management,192127007,Child attention deficit disorder
+17115186-7183-f641-fd8f-dac342156fe1,2011-11-23,2012-05-03,ptGF,enpzq,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+807aacce-28d7-983f-04df-9af0d6abb658,2019-06-13,,ptGF,enqdi,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+e40ae08f-0df2-7b60-a9d1-4f6a21331716,2004-11-23,,ptDR,enkud,384758001,Self-care interventions (procedure),,
+722298c1-b329-076e-7fac-357fed29c871,2005-11-17,,ptDR,enkuf,711282006,Skin condition care,24079001,Atopic dermatitis
+81bb7976-4286-4591-af8b-6887b279abc7,2012-04-26,2012-09-11,ptDR,enkuh,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+35446ee0-abc1-0775-45df-4942d3bcddf6,2013-08-01,2013-08-22,ptDR,enkul,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+16ecaeb3-3597-0dcb-b2a8-e753446b7d52,2014-05-05,2014-09-23,ptDR,enkun,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+e1331160-9049-08c6-3378-8b1eb91651c6,2016-09-13,2020-10-02,ptDR,enkus,170836005,Allergic disorder monitoring,,
+d0b4cb24-5ffb-749e-4125-90d562f0da8a,2019-08-31,2019-10-22,ptDR,enkwr,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+fef9464f-4a96-62ae-dec6-24b12b50e8c8,2021-11-02,,ptDR,enkxn,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+f4691041-ea90-92ef-144c-b2d5fd5e37d8,2002-03-19,,ptAS,endmi,384758001,Self-care interventions (procedure),,
+8718db93-774e-03fe-2fa0-45b4be5dc606,2019-05-08,2019-12-18,ptAS,endmw,134435003,Routine antenatal care,72892002,Normal pregnancy
+67a6123a-74aa-d332-6a6a-c98592939041,2020-03-31,2020-03-31,ptAS,endnl,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+84ad9b1b-07f1-e68e-2c68-03c9d9471d09,2020-03-31,2020-04-23,ptAS,endnl,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+afc14d92-d00a-917e-78f3-4d0e81bb2a56,2016-09-20,2019-03-25,ptEJ,enmkk,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+80d2e310-9afd-2a9c-da48-306889b9aa29,2012-10-03,2013-03-06,ptAZ,enebz,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+5d695abb-1974-af60-341d-5f8a5d953427,2017-11-11,2017-12-20,ptAZ,enecd,133901003,Burn care,403191005,Second degree burn
+01b2030f-eee0-5f8f-c830-d84b5c5066b6,1998-06-16,,ptBQ,enffx,734163000,Care plan (record artifact),55680006,Drug overdose
+fdf83d18-3d30-e3b9-88c9-4157d7acffc4,2018-09-01,2019-07-02,ptBQ,enfho,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+911059b1-248c-23b8-65a9-f80e0d9a176c,2017-07-01,2018-06-22,ptEN,enmtn,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+c0802fdb-6c91-19f0-b4a0-64b6c13c8739,2018-06-03,2018-07-03,ptEN,enmtt,276239002,Therapy (regime/therapy),,
+fcf405fa-9fd1-f1f4-6865-c6d1234830cb,1995-02-22,,ptDZ,enlov,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+096d2e68-aa5b-e121-ee8c-4f513ee42bdc,2013-06-09,2013-07-19,ptDZ,enloy,91251008,Physical therapy procedure,307731004,Injury of tendon of the rotator cuff of shoulder
+49c15c80-f882-fe14-848c-d1d39a243c1d,2014-02-03,2014-02-28,ptDZ,enlpa,276239002,Therapy (regime/therapy),,
+a7fa0532-5092-961d-a706-88f721b896a6,2016-03-19,2016-10-22,ptDZ,enlpm,134435003,Routine antenatal care,72892002,Normal pregnancy
+a9bf3a0f-35ab-c4c6-7858-c183be34e506,2020-03-28,2020-11-07,ptDZ,enlqi,134435003,Routine antenatal care,72892002,Normal pregnancy
+879afb45-82d5-ec10-25d7-b1f86fc51e09,1997-02-12,,ptCB,engid,734163000,Care plan (record artifact),55680006,Drug overdose
+8385f23e-ea6c-2006-437e-7d6f9c19f292,2015-04-23,2020-04-23,ptCB,engja,134435003,Routine antenatal care,72892002,Normal pregnancy
+00985308-d4ac-b106-231d-49a73ac05ac5,2017-06-04,2019-05-23,ptCB,engjo,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+7b92f982-f21a-840b-9c22-7b349ed5d7fd,2013-05-11,2015-08-22,ptBW,enfus,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+acea1a11-1961-5c54-be2e-6763f01ca639,2014-09-20,2015-05-02,ptBW,enfut,134435003,Routine antenatal care,72892002,Normal pregnancy
+1d85d2d7-9c16-d372-e243-5ae329572577,2015-11-07,2016-06-11,ptBW,enfvi,134435003,Routine antenatal care,72892002,Normal pregnancy
+111ee3da-c1e0-56df-ecee-ad44868d1c63,2018-05-25,2018-06-24,ptBW,enfvv,91251008,Physical therapy procedure,44465007,Sprain of ankle
+9dccbefd-73eb-5fb2-6c78-3c10c6405cdf,2018-09-15,2019-04-20,ptBW,enfvx,134435003,Routine antenatal care,72892002,Normal pregnancy
+10df557b-4239-b59c-71f0-849894b28b1d,1996-01-19,1997-01-27,ptBJ,enesn,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+41bcefb9-c4bb-1869-f8cc-79f1770e9293,2011-11-12,2011-11-27,ptBJ,enesr,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+caf13632-aa43-b365-c6f6-62f7b34ded2b,2021-02-10,,ptBJ,enetb,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+d1e3bd2a-8324-a435-c299-fcc24d6d2697,2014-09-19,2014-12-15,ptDI,enjyx,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+f65b2fa4-e536-60d2-de08-7e6aa661d7b3,2015-05-15,2015-12-25,ptDI,enjza,134435003,Routine antenatal care,72892002,Normal pregnancy
+8c28d404-cf6c-080b-51b3-d39dd76142f8,2015-12-22,2016-02-16,ptDI,enjzk,385691007,Fracture care,263102004,Fracture subluxation of wrist
+7e88a0d1-569d-d0aa-085a-d8006cf582bb,1988-10-01,,ptGD,enpwu,384758001,Self-care interventions (procedure),,
+02c73d97-dd69-a0b4-1588-6c88e747b351,2005-03-20,,ptGD,enpwx,718361005,Weight management program,,
+59240207-0e6b-a94b-0fb6-b66e9956b81e,2010-01-28,,ptGD,enpxa,699728000,Asthma self management,195967001,Asthma
+0971d9ce-f86e-eb63-140d-3457c9087c38,2017-06-03,2017-06-30,ptGD,enpxr,225358003,Wound care,284551006,Laceration of foot
+209a42f1-9541-d87d-4360-47c0896d007a,2019-03-24,2019-04-03,ptGD,enpxu,737471002,Minor surgery care management (procedure),,
+efb546cf-56b2-9fc9-0900-c7619c5407f3,2011-08-30,,ptAJ,encrr,711282006,Skin condition care,24079001,Atopic dermatitis
+b273b2bb-37ef-bead-bdfd-e0d4f43db76a,2011-09-13,,ptAJ,encrs,384758001,Self-care interventions (procedure),,
+389843c8-b63b-a6ec-6cec-dc93f0f64f16,2001-10-15,,ptEK,enmle,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+e334b49b-4df7-c68b-d548-af553bc2bef0,2014-11-17,2016-12-27,ptGR,enrdz,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+1cebaa2b-6d19-4b5e-72ee-b5b397313bd9,2019-12-17,2020-07-14,ptGR,enreg,134435003,Routine antenatal care,72892002,Normal pregnancy
+d1f43380-093f-bd60-b8b8-35c15f1b4e91,2011-04-12,2011-11-15,ptGC,enpve,134435003,Routine antenatal care,72892002,Normal pregnancy
+db02ceac-eed8-885e-37e8-9a4dd3bea40f,2012-07-19,2012-08-16,ptGC,enpvh,225358003,Wound care,284549007,Laceration of hand
+0f1c9004-9c60-1e61-b0fd-e10c8b990b12,2016-02-02,2016-09-06,ptGC,enpvm,134435003,Routine antenatal care,72892002,Normal pregnancy
+1bd7e799-ef1a-b0a9-d794-b0649630b1ae,2017-11-07,2018-06-05,ptGC,enpvz,134435003,Routine antenatal care,72892002,Normal pregnancy
+2fc306ab-5062-fcf9-21a1-234ed6db130d,2021-05-18,,ptGC,enpwn,134435003,Routine antenatal care,72892002,Normal pregnancy
+730289ed-7086-ccdf-b88c-d023eda85751,1995-04-30,,ptEW,ennnx,384758001,Self-care interventions (procedure),,
+cb39ce58-6d01-c9a5-e1e3-1338257689ed,2013-08-19,2013-10-28,ptEW,ennol,385691007,Fracture care,263102004,Fracture subluxation of wrist
+664e1847-3066-e04b-a0a8-c0bbdbb5ebf9,2014-03-20,,ptEW,ennor,276239002,Therapy (regime/therapy),,
+aeb84dd3-0d2b-7b99-e024-0a0a4cd739bc,2014-07-15,2015-02-17,ptEW,ennou,134435003,Routine antenatal care,72892002,Normal pregnancy
+fdb73175-1783-0604-0e42-1555aa9922a6,2016-04-10,2016-05-03,ptEW,ennpw,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+9bda27d0-cd42-ea72-9e11-0318d09d9894,2019-04-05,2019-05-14,ptEW,ennql,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+6daa3210-08c2-0004-7f0b-02db5d941023,2018-02-12,2018-06-05,ptK,enatk,385691007,Fracture care,263102004,Fracture subluxation of wrist
+3d8f67b1-6a94-4a31-3e27-ca443db71fab,2018-08-16,2019-06-08,ptK,enatn,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+661b5862-4b2d-2aa9-2a0f-611747f83c65,2021-08-21,,ptK,enatw,134435003,Routine antenatal care,72892002,Normal pregnancy
+4ee032e3-741c-f6c7-36e3-8642748b9ee9,2012-08-03,2012-09-15,ptCE,engsf,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+12b94b4d-9741-b9ae-c869-eb5645bf542a,2014-04-07,,ptCE,engsk,276239002,Therapy (regime/therapy),,
+fab3d312-b222-5d74-0ea2-7dee275b5493,2014-07-01,2015-02-10,ptCE,engsm,134435003,Routine antenatal care,72892002,Normal pregnancy
+28c48289-9131-a002-381b-1651a28b6721,2015-11-18,2016-03-01,ptCE,engtb,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+5e0f8260-5a8d-6ff5-2c9a-efe59c1cbcfd,2017-05-27,2017-06-09,ptCE,engtf,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+fff1060c-c046-49e4-1262-bfad6118e8a6,2019-08-29,2019-09-12,ptCE,engtm,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+99966ed6-37c2-0754-9539-1b72491e7789,2020-06-02,2020-12-15,ptCE,engts,134435003,Routine antenatal care,72892002,Normal pregnancy
+064853d0-39ee-8764-5ed0-2b149d0b2ec2,2021-03-30,,ptCE,engub,698360004,Diabetes self management plan,15777000,Prediabetes
+d3ab16d0-a8e1-57a5-2659-1d7bb549986d,2021-08-10,,ptCE,engue,134435003,Routine antenatal care,72892002,Normal pregnancy
+d65a3694-2e77-057f-4137-beb5cd048ea4,2000-06-02,,ptU,enbke,134435003,Routine antenatal care,72892002,Normal pregnancy
+21c33c56-9ea9-058b-af3e-c1cf89a2dbca,2018-08-24,,ptU,enbkl,698360004,Diabetes self management plan,44054006,Diabetes
+8acb5235-40fb-ba19-7efe-74b796f0ca88,2018-08-24,,ptU,enbkm,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+613bbce5-e8bc-ead0-3b30-31a451d1435b,2013-07-11,2013-07-19,ptEO,enmvf,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+ec6efe72-70fa-8456-f538-0e7d5668301c,2014-09-13,2016-11-07,ptEO,enmvi,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+513758c9-dbb1-c209-5c82-c15531c8c2cf,2021-02-05,2021-02-05,ptEO,enmvn,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+e6ef4c3f-c288-2545-f285-cbbd9f8e5294,2021-07-30,2021-08-10,ptEO,enmvq,737471002,Minor surgery care management (procedure),,
+27f8cced-858a-823e-bb78-dfd774bfffb7,1969-11-18,,ptBM,enewz,698360004,Diabetes self management plan,15777000,Prediabetes
+bbcacbd3-71c3-1d82-b49d-1169ad4903ec,2002-11-19,,ptBM,eneya,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+e836e8f3-6bb1-7d3c-356d-916542f1af9b,2017-05-15,2018-01-23,ptBM,enezi,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+5a20f12d-7cc1-a1bc-9773-0ce235baaec6,1994-08-18,1995-04-06,ptDK,enkcl,134435003,Routine antenatal care,72892002,Normal pregnancy
+9b5e5774-9fd4-b715-eb3d-5dfdd080552c,2001-07-12,2002-01-23,ptDK,enkcr,134435003,Routine antenatal care,72892002,Normal pregnancy
+02c97cc2-96a7-cd05-cc2f-2e5eb49e9316,2002-07-04,2003-01-29,ptDK,enkcs,134435003,Routine antenatal care,72892002,Normal pregnancy
+c8c85052-897a-ac65-32eb-c52feb719cc3,2000-06-11,,ptX,enbpb,384758001,Self-care interventions (procedure),,
+b4f7c81a-6dbf-24fe-572e-6ac72f7751ea,2002-12-02,,ptX,enbpd,699728000,Asthma self management,233678006,Childhood asthma
+c35e6a54-ca42-0546-d284-ad6fed660392,2013-01-09,,ptDK,enkcy,698360004,Diabetes self management plan,44054006,Diabetes
+fc3f9752-6669-438f-7603-08a1fb9409c4,2013-01-09,,ptDK,enkcy,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+8786d6d5-5dad-896e-b05d-b319c043edcc,2013-08-01,,ptDK,enkdb,134435003,Routine antenatal care,72892002,Normal pregnancy
+f0836a80-9116-79f5-8686-65150978e0f1,2012-03-01,2016-04-08,ptX,enbpp,170836005,Allergic disorder monitoring,,
+e6f1eb44-104b-37af-b204-6adf03feaf3d,2014-10-30,2015-01-21,ptDK,enkdl,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+a4d1c1de-3aed-9013-774a-91d1cabdec23,2020-05-07,,ptX,enbss,698360004,Diabetes self management plan,15777000,Prediabetes
+501030a0-c508-b269-fe30-9f85e3515b43,1976-03-28,,ptAD,encfs,384758001,Self-care interventions (procedure),,
+6cb3016b-c111-9545-02e8-d7e05c7c2687,1994-01-18,1994-08-30,ptAD,encfx,134435003,Routine antenatal care,72892002,Normal pregnancy
+f51f5962-d9ac-4f74-3de3-891bf5f0b571,1996-12-03,1997-07-08,ptAD,encfz,134435003,Routine antenatal care,72892002,Normal pregnancy
+fa99065f-80d8-955c-bb1f-c676ed1df798,1998-05-19,1998-12-29,ptAD,encga,134435003,Routine antenatal care,72892002,Normal pregnancy
+f7b6be47-ea74-d0f5-dc47-55cc4e9b845d,1999-09-07,2000-04-11,ptAD,encgc,134435003,Routine antenatal care,72892002,Normal pregnancy
+31806f3a-1f13-efc7-df0d-1617c5bbdb9d,2003-01-07,2003-08-12,ptAD,encgd,134435003,Routine antenatal care,72892002,Normal pregnancy
+04bdaa10-c228-652c-e582-3cb6f5b8e75f,2004-06-15,2005-01-18,ptAD,encge,134435003,Routine antenatal care,72892002,Normal pregnancy
+a19478c6-92aa-f103-60e6-7ead8f0e6921,2009-04-28,2009-12-08,ptAD,encgg,134435003,Routine antenatal care,72892002,Normal pregnancy
+3de9e140-4396-982d-da75-ceb47b9c717c,2015-07-28,2016-11-01,ptAD,encgn,134435003,Routine antenatal care,72892002,Normal pregnancy
+fb56dff7-1225-ce5a-be3a-59976accd5f4,2019-08-09,2021-08-24,ptAD,enchi,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+402c3f57-4bd3-7bc0-89d8-7defc180ace8,2021-08-10,,ptAD,enchl,134435003,Routine antenatal care,72892002,Normal pregnancy
+2a60d09a-2936-235b-ea52-e31831c7a45d,2004-09-22,,ptCK,enhpv,384758001,Self-care interventions (procedure),,
+f8f1660c-163e-5e33-f44e-0d3bcaa82984,2008-10-21,,ptCK,enhpx,699728000,Asthma self management,233678006,Childhood asthma
+388647fa-2abd-6648-1ccd-90c25af61bec,2017-02-22,2021-03-20,ptCK,enhqt,170836005,Allergic disorder monitoring,,
+a973a6a8-9d0a-1da9-fc3d-7329835f146d,2008-03-17,,ptAX,endwy,698360004,Diabetes self management plan,15777000,Prediabetes
+6928d51d-a452-570c-18a8-da9830d3a37d,2013-01-14,2013-08-12,ptAX,endwz,134435003,Routine antenatal care,72892002,Normal pregnancy
+19120a07-89b7-8407-ca3f-33114787c6d2,2015-04-06,2015-11-02,ptAX,endxl,134435003,Routine antenatal care,72892002,Normal pregnancy
+5ef4b104-6469-0355-270a-fd77051a6402,2017-02-20,2017-09-25,ptAX,endxx,134435003,Routine antenatal care,72892002,Normal pregnancy
+17dfa12e-6660-d0f9-a470-53e622624be5,2018-10-05,2020-03-30,ptAX,endyk,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+05d27354-485c-2aae-4b2f-d85fdbf41cec,2018-12-17,2019-01-02,ptAX,endyn,737471002,Minor surgery care management (procedure),,
+b21541a0-f839-b511-e2ac-072205f534dc,1984-11-29,,ptDA,enjcb,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+3c353b1a-aff2-b5cb-62b6-a29f930a5c4b,2013-06-13,2013-08-27,ptDA,enjdn,385691007,Fracture care,263102004,Fracture subluxation of wrist
+3d9a06a1-92da-5ea6-d071-616a6cf3f9ee,2021-05-03,2021-08-08,ptDA,enjeo,385691007,Fracture care,263102004,Fracture subluxation of wrist
+37497481-0665-546f-2783-3f8c5c3a89e1,1983-08-22,,ptFZ,enpmz,384758001,Self-care interventions (procedure),,
+54c85a87-e9d4-61cc-a783-58d76c0aeb1b,2014-10-23,2015-05-21,ptFZ,enpnk,134435003,Routine antenatal care,72892002,Normal pregnancy
+21c82888-cc3e-2249-fb57-68b0db3be491,2018-03-14,2018-04-10,ptFZ,enpny,225358003,Wound care,370247008,Facial laceration
+e5e59dcc-b5f2-20cf-c502-bfe8da3b21a5,2018-06-23,2018-07-11,ptFZ,enpoa,737471002,Minor surgery care management (procedure),,
+f38e06a4-7531-f2f5-5daa-ad01311d16a2,2021-02-17,2021-03-06,ptFZ,enpoe,91251008,Physical therapy procedure,44465007,Sprain of ankle
+e102d567-5903-1946-3348-8a400191d8cd,2015-04-23,,ptFV,enphe,698360004,Diabetes self management plan,15777000,Prediabetes
+23589060-a273-afc7-ca7f-4906cb025abe,2021-03-31,2021-03-31,ptFV,enphk,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+4f470573-b39a-7081-bf92-dc9846fe0287,2021-03-31,2021-04-25,ptFV,enphk,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+c99a008e-8196-1afb-2906-43d866b45883,2013-10-21,2013-12-26,ptFP,enoyi,385691007,Fracture care,16114001,Fracture of ankle
+c3620489-6eb4-dc5f-75a1-d987f3ff7cd5,2014-11-25,2015-02-02,ptFP,enoyl,47387005,Head injury rehabilitation,110030002,Concussion injury of brain
+0d80c831-9b2d-d4d7-2fd5-84c7cd978262,2017-05-29,2017-06-28,ptFP,enoyp,276239002,Therapy (regime/therapy),,
+78fa2d5f-2df8-6886-0e17-234a6342b174,2017-06-17,,ptFP,enoyv,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+a6080cf2-8ccc-8b96-9f72-7144569f0c12,2018-07-14,2019-06-29,ptFP,enozg,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+d48053b9-b9a7-ec48-e99e-8b850839a0c4,2014-01-31,2014-03-03,ptDO,enkmj,276239002,Therapy (regime/therapy),,
+58bdbf7d-7602-c8aa-f614-00adb70aadfa,1987-03-20,,ptEL,enmnb,384758001,Self-care interventions (procedure),,
+9c539250-57d2-5b50-70ef-a425a5b3d333,2014-11-25,2015-06-23,ptEL,enmnw,134435003,Routine antenatal care,72892002,Normal pregnancy
+5b3ce672-3765-a1a7-a832-eeaf81bf4799,2016-12-06,2017-07-04,ptEL,enmoh,134435003,Routine antenatal care,72892002,Normal pregnancy
+0d65e5c4-c398-9d1e-9a05-f92b5cd078b7,2010-03-16,,ptEP,enmvs,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+2880ce43-cf04-6554-6203-c69072cdc171,2011-03-23,2012-03-27,ptEP,enmvu,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+8f90ec96-9072-e3fb-9de6-e81a0ae05586,2011-07-05,2012-02-21,ptEP,enmvw,134435003,Routine antenatal care,72892002,Normal pregnancy
+d802ebe7-15a3-0e71-767d-433efe3c9e72,2013-10-21,2014-04-08,ptEP,enmwh,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+0ed248c5-e04c-b715-6bd1-74b01506a72d,2014-10-08,2015-04-14,ptEP,enmwl,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+88efe10d-26ae-6ae2-335f-c404b521758d,2015-06-30,2016-02-09,ptEP,enmwp,134435003,Routine antenatal care,72892002,Normal pregnancy
+dbf46c78-1873-aa50-0b3f-fe6fa3b23cf2,2016-03-12,2016-04-19,ptEP,enmxa,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+16614c82-68eb-51dc-9e9b-92404fdd9229,2019-01-15,2019-08-20,ptEP,enmxh,134435003,Routine antenatal care,72892002,Normal pregnancy
+5f67a525-8a7b-eb78-9c2a-0f19944da41c,2021-02-09,2021-09-28,ptEP,enmxx,134435003,Routine antenatal care,72892002,Normal pregnancy
+71d5c20a-1c62-eb76-3bda-270c400c86e9,2021-07-31,2021-07-31,ptEP,enmyh,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+160899bd-839f-170e-d04f-2d5da98e08fb,2021-07-31,2021-08-27,ptEP,enmyh,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+9c955fc7-9b39-4a2f-6616-0bc5933a21eb,2013-06-16,2013-07-05,ptBN,enezy,91251008,Physical therapy procedure,44465007,Sprain of ankle
+f38a880f-77a5-433a-64cb-69ed61026428,2016-10-22,2016-11-16,ptBN,enfae,225358003,Wound care,370247008,Facial laceration
+b416e8ff-e258-cdd7-9ab4-2d098bace55c,2018-12-05,,ptBN,enfai,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+05031cbd-6353-5479-d308-c8d5b5635494,2018-12-30,,ptBN,enfaj,276239002,Therapy (regime/therapy),,
+2f36d42b-d278-0859-eeb1-3a06387ee66b,2021-02-17,2021-09-22,ptBN,enfau,134435003,Routine antenatal care,72892002,Normal pregnancy
+ce2eb54f-5b85-17a7-ad49-6d5d37502ecb,2017-03-14,2017-04-08,ptEQ,ennag,276239002,Therapy (regime/therapy),,
+e2bfb66e-4f7c-cdc3-7601-d394f59c62e4,2017-05-08,,ptEQ,ennat,276239002,Therapy (regime/therapy),,
+e0de960d-65fa-a752-455d-2240a4adaf13,2019-04-28,,ptEQ,ennbj,734163000,Care plan (record artifact),55680006,Drug overdose
+1f381ed5-7aa7-0de7-f754-4c94d598859e,2019-07-14,2020-02-16,ptEQ,ennbn,134435003,Routine antenatal care,72892002,Normal pregnancy
+5317b7fa-d668-a67e-b1ec-5680e2d27578,2014-05-04,,ptFT,enpcx,276239002,Therapy (regime/therapy),,
+4df1fcc1-6f70-f7f8-e556-96486d3a64f0,2017-02-11,2017-12-30,ptFT,enpdn,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+370567aa-9563-3cdd-915c-e07689a88bd9,1987-01-31,,ptAW,endtd,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+59b8c218-de18-9bd9-6f89-f7c91711a57d,1998-04-04,,ptAW,endtq,698360004,Diabetes self management plan,44054006,Diabetes
+6c0a5e9c-4bc1-e6ed-3d61-7288bc9170e9,2012-01-08,2012-06-23,ptAW,endui,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+158d7a0b-211a-a604-563c-e70676780088,2014-02-03,2014-03-05,ptAW,endup,276239002,Therapy (regime/therapy),,
+1576260d-941a-56c8-385e-b53cbc2bd65c,2018-04-25,2018-06-02,ptAW,endvk,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+f12e0926-dac2-1455-3204-050b6fd36633,2019-06-21,2019-09-17,ptAW,endwd,385691007,Fracture care,263102004,Fracture subluxation of wrist
+16f2214a-7601-5835-1236-caebb1da97cc,2020-02-24,2020-03-12,ptAW,endwh,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+02ba7b60-117e-c2a8-4bf0-f8f0a2d7a1e4,2006-02-12,2013-07-07,ptAV,endrs,134435003,Routine antenatal care,72892002,Normal pregnancy
+aa8997ce-19b0-82d3-ea7a-f6ccac86f181,2021-01-03,2021-01-03,ptAV,endsy,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+ef6c01c0-ef99-bc42-752a-2d48501223f2,2021-01-03,2021-02-03,ptAV,endsy,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+73124172-6929-ae1f-8afb-5735fa53e0b1,2009-11-07,,ptCV,eniqn,698360004,Diabetes self management plan,15777000,Prediabetes
+228ce63e-5105-0ebf-f8e4-7b5fc78e19e4,2012-09-18,2012-10-27,ptCV,eniqo,133899007,Postoperative care,,
+e5097259-b35d-053e-8680-59dd7a27a14c,2014-12-27,,ptCV,eniqw,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+484f86b8-0890-2639-ff7c-018f6777f710,2012-02-27,,ptEY,ennud,698360004,Diabetes self management plan,15777000,Prediabetes
+60898dc8-23bc-f134-7be9-9213cd1dbd0f,2014-02-05,2014-03-07,ptEY,ennuh,276239002,Therapy (regime/therapy),,
+7e61dfd6-628d-b6cc-7d56-e828f64dc909,2014-04-06,,ptEY,ennut,276239002,Therapy (regime/therapy),,
+5cdf28b7-0b02-1521-8d77-6b7a08c131fa,2019-01-01,2019-02-16,ptEY,ennvf,385691007,Fracture care,58150001,Fracture of clavicle
+7decf56a-332c-0d1b-3f89-7208da1a3fb0,1989-11-09,,ptDT,enlao,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+e139698f-2eed-3dad-143b-3a301f03f1c9,2019-03-10,2019-04-04,ptDT,enlci,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+80bc7be6-8387-9e11-0eda-c69d67b152cd,2012-03-28,2012-04-12,ptDX,enljf,225358003,Wound care,284549007,Laceration of hand
+c16a93f4-d2ff-b0ac-79a6-69884d2053ff,2015-02-20,,ptDX,enljq,698360004,Diabetes self management plan,15777000,Prediabetes
+c0c3d811-503e-4a86-8a18-2a7f82608c9a,2015-05-08,2015-12-11,ptDX,enlju,134435003,Routine antenatal care,72892002,Normal pregnancy
+c9641ae3-c68c-c0f7-6fc4-3e24b9fcd429,2017-05-01,2017-05-08,ptDX,enlko,869761000000107,Urinary tract infection care,38822007,Cystitis
+6fcfdbc4-7245-adb4-4dd2-b5ebe1d6b8f6,1996-04-23,,ptCD,engot,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+b526c366-887d-ccd7-c34a-7de786da0198,2012-06-26,2013-01-28,ptCD,engpn,134435003,Routine antenatal care,72892002,Normal pregnancy
+c0c5cca7-0e7e-a016-24c8-35d67421e79f,2014-02-24,2014-08-05,ptCD,engqc,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+c40a8d4c-e042-d41a-4997-058e2cccb6e5,2019-09-03,,ptCD,engri,698360004,Diabetes self management plan,44054006,Diabetes
+2091601a-e533-6933-c7b2-2b856b118d67,1996-06-10,,ptFN,enoth,384758001,Self-care interventions (procedure),,
+d9ad9d1e-8f90-da4e-63be-3d4d8e601fba,2012-05-21,2012-07-22,ptFN,enotj,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+bff35fc5-b1b7-96a1-62cd-195e7e09db1b,2012-07-15,2013-02-24,ptFN,enotl,134435003,Routine antenatal care,72892002,Normal pregnancy
+1b0543b5-b5e0-3ddf-ca9e-6adf9e0c14f7,2015-10-25,2016-06-05,ptFN,enoud,134435003,Routine antenatal care,72892002,Normal pregnancy
+9b185484-ae4d-d78d-89c6-0faa3fb48757,2017-06-15,2017-07-14,ptFN,enoup,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+11e8d511-3a84-ff86-53a7-51b806d8aee2,2017-10-25,2018-07-29,ptFN,enour,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+0887bd7f-28cb-f37e-96b5-3ad81c5878ab,2021-04-18,2021-11-14,ptFN,enovc,134435003,Routine antenatal care,72892002,Normal pregnancy
+811724d7-8657-1274-16f7-99e3e37c24c7,1976-09-05,,ptAG,enclp,384758001,Self-care interventions (procedure),,
+93ef996e-420c-8468-55a5-de789fcdb861,2016-10-01,2016-11-13,ptAG,encmj,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+2a815326-94af-f5e8-7658-c784a30bf6ba,2002-03-06,,ptAK,encta,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+00060f65-459b-83bc-d5d2-3b43c51e8777,2011-07-20,2012-02-15,ptAK,enctl,134435003,Routine antenatal care,72892002,Normal pregnancy
+10f1fbcd-86b8-0ab2-df97-106c8bb0b20e,2013-06-05,2014-01-01,ptAK,enctu,134435003,Routine antenatal care,72892002,Normal pregnancy
+30389b64-0e15-7049-92f8-eadf241a4887,2014-01-31,2014-03-02,ptAK,encue,276239002,Therapy (regime/therapy),,
+1ca9c7d0-b821-a5ad-f2b9-59f68bf086e2,2014-12-24,2015-07-29,ptAK,encur,134435003,Routine antenatal care,72892002,Normal pregnancy
+e83ccb4f-1c6c-9da3-4cc5-e486ab96de93,2017-08-30,2018-06-13,ptAK,encvg,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+a49c4e55-c6cb-9a5f-79ac-e0fd70a121dd,2018-05-02,2018-12-05,ptAK,encvi,134435003,Routine antenatal care,72892002,Normal pregnancy
+7894c423-9a7b-debf-9bb1-7aac7bf47651,2019-02-05,2019-02-20,ptAK,encvv,737471002,Minor surgery care management (procedure),,
+cbf7c233-45fc-babf-dc7e-05f7721cae16,1978-02-24,,ptDB,enjeq,384758001,Self-care interventions (procedure),,
+83d9b655-481e-79a7-36ac-ff0e69e1450c,1981-11-06,,ptDB,enjes,699728000,Asthma self management,233678006,Childhood asthma
+4cbdb055-ba93-f3e6-3f19-2e0b16f5a1a9,1994-07-29,,ptDB,enjfk,734163000,Care plan (record artifact),55680006,Drug overdose
+c83cf42c-96fe-a6f6-caf1-5458a290adae,2011-10-13,2012-05-10,ptDB,enjgk,134435003,Routine antenatal care,72892002,Normal pregnancy
+53d68f4d-3d5e-3dfc-a818-337f4e76d8dd,2018-06-13,2018-07-22,ptDB,enjhz,47387005,Head injury rehabilitation,62564004,Concussion with loss of consciousness
+82e8f5fa-682b-87ba-b97d-1a390f19a561,2011-01-21,,ptEV,ennmw,384758001,Self-care interventions (procedure),,
+e43250d7-830f-ba98-1ee4-f6cec2bc9fdf,2018-02-12,2018-09-08,ptEV,ennnl,386522008,Overactivity/inattention behavior management,192127007,Child attention deficit disorder
+0769b269-0c09-18ed-0287-1b3afc9c02ee,2008-11-15,,ptDW,enlhb,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+5ce95590-1fe5-794b-51a9-ef1345cdf515,2012-12-07,2013-12-14,ptDW,enlhh,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+754c3849-55ac-7694-5c49-67d1354cea31,2014-10-04,2015-04-18,ptDW,enlhk,134435003,Routine antenatal care,72892002,Normal pregnancy
+827badbb-964d-e7a3-48a0-dc5073d2c62b,2015-09-05,2016-04-09,ptDW,enlhu,134435003,Routine antenatal care,72892002,Normal pregnancy
+67bd3ee5-f44f-24ab-d48a-f4fb452bc03d,2013-04-28,2013-06-25,ptFR,enpaa,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+3afbfd0e-2849-b060-30cd-1310712fe145,2020-03-17,2020-10-20,ptFR,enpal,134435003,Routine antenatal care,72892002,Normal pregnancy
+6881d041-01e0-4096-3747-12c718ba06f2,2021-08-10,,ptFR,enpay,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+7701348a-ab49-0b67-2493-840d66fa9143,1977-06-08,,ptCI,enhaz,698360004,Diabetes self management plan,44054006,Diabetes
+f3e780b4-ae9b-684a-bdc0-f9b06c507f78,1995-10-11,,ptCI,enhbz,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+a55aac88-e732-d566-af58-9ab33e8c69f4,2008-02-11,,ptCI,enheg,734163000,Care plan (record artifact),55680006,Drug overdose
+9292cca4-7415-1f42-5655-91c3ff6215fd,1991-08-09,,ptCW,enise,698360004,Diabetes self management plan,15777000,Prediabetes
+c6b070a9-b23c-f5f4-12a4-6b93204e08f2,1994-09-16,,ptCW,enisg,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+155364a4-4e32-5758-2d47-c4742e8b86ba,2014-02-01,2014-03-04,ptCW,enitv,276239002,Therapy (regime/therapy),,
+5572c00a-e553-5a09-5192-50535b90149d,2016-08-05,2016-08-26,ptCW,eniut,91251008,Physical therapy procedure,44465007,Sprain of ankle
+4da2b9c1-6141-b058-ebf6-34468e1a5bbd,2006-11-24,,ptR,enbde,698360004,Diabetes self management plan,15777000,Prediabetes
+bcca5739-7295-d396-9d62-58d9cf63f7b9,2014-02-02,2014-03-05,ptR,enbdv,276239002,Therapy (regime/therapy),,
+77945d18-1ef4-9b6f-0596-80af350206ab,2016-03-18,2016-10-28,ptR,enbej,134435003,Routine antenatal care,72892002,Normal pregnancy
+2ca94ecb-81c1-f10c-7935-d6eb105b1322,2018-05-18,2018-06-13,ptEH,enmhw,91251008,Physical therapy procedure,70704007,Sprain of wrist
+a5de9eb6-ceae-ecff-466c-fb77a3b5ffad,2019-02-18,2020-08-10,ptEH,enmhx,386522008,Overactivity/inattention behavior management,192127007,Child attention deficit disorder
+8d24eec5-816e-a5a1-3dd0-5eb2c80796ab,2005-05-08,,ptFE,enogd,384758001,Self-care interventions (procedure),,
+fefc605b-96c5-a0bd-1df8-bd890a3894ba,2016-12-16,,ptFE,enogt,698360004,Diabetes self management plan,15777000,Prediabetes
+1df5f38b-e298-e257-6958-91600bc91252,2018-12-20,,ptFE,enogw,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+2e2d295a-c59e-3adc-a438-b773b69ca1e8,2014-02-01,2014-03-04,ptN,enawc,276239002,Therapy (regime/therapy),,
+e071d125-ef15-bb15-6f7d-377fe356b27d,2015-07-02,2015-08-03,ptN,enawo,385691007,Fracture care,263102004,Fracture subluxation of wrist
+377c3f0c-5d78-6219-bd6e-c75b402ce7eb,2007-08-05,,ptFK,enoov,698360004,Diabetes self management plan,15777000,Prediabetes
+f3bc512e-9433-4a0f-889e-437913645395,2014-04-01,,ptFK,enopc,276239002,Therapy (regime/therapy),,
+794ca070-d13d-d8aa-f34a-386e7de0fb3c,2015-08-01,2015-09-11,ptFK,enopg,91251008,Physical therapy procedure,44465007,Sprain of ankle
+bb3f7cd0-df38-8212-6d12-3f513c7a9ef3,2018-09-02,2018-10-10,ptFK,enopm,91251008,Physical therapy procedure,44465007,Sprain of ankle
+d4f0fbe9-7b82-0967-4080-8f493c5ceaa4,2018-09-17,2021-04-16,ptFK,enopo,395082007,Cancer care plan,363406005,Malignant tumor of colon
+5557c80e-35fb-dcb7-a1d3-adc050eb9c88,2018-09-30,2018-10-13,ptFK,enopp,781831000000109,Major surgery care management,363406005,Malignant tumor of colon
+b19fc542-fbab-7f0f-2e53-03d39a103220,2011-05-21,2011-12-23,ptF,enaly,134435003,Routine antenatal care,72892002,Normal pregnancy
+cdcb7c6b-e2d2-02f4-d5b1-999f8700fcb5,2015-08-17,2015-10-05,ptF,enamn,47387005,Head injury rehabilitation,62564004,Concussion with loss of consciousness
+28200cd5-3016-4eea-613b-ec856b60093c,2015-10-26,2015-11-02,ptF,enamp,869761000000107,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+af8e9693-4602-7d25-84c8-dc2b8b1b46ef,1988-10-07,,ptCR,enign,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+f024317e-01e1-d878-c9e9-baa098e849c2,2016-04-01,2016-11-17,ptCR,enihx,134435003,Routine antenatal care,72892002,Normal pregnancy
+d3c39088-b9f6-631e-48a4-c18de87b57d9,2018-05-25,,ptCR,eniip,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+b5ec23f4-ba9c-457f-88e0-c6073d533436,2019-11-18,2019-12-01,ptCR,eniiu,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+cab1f0c7-45eb-b5b1-7116-ed4a572784a4,2019-07-21,2020-02-23,ptCJ,enhpa,134435003,Routine antenatal care,72892002,Normal pregnancy
+9dc2d8d5-c377-1166-b109-63c16b6d858f,2021-06-23,2021-07-19,ptCJ,enhps,91251008,Physical therapy procedure,70704007,Sprain of wrist
+a20a6042-0b86-8fa7-0c86-6d5763d4c869,2012-07-12,,ptAB,encbd,698360004,Diabetes self management plan,15777000,Prediabetes
+0b192baa-6815-665e-50f4-3f36d1585980,2013-10-31,2015-11-12,ptAB,encbh,134435003,Routine antenatal care,72892002,Normal pregnancy
+cc878e12-8577-51a4-2172-43785f6c9b17,2014-12-20,2017-03-16,ptAB,encbs,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+94bd71f0-f2a4-6005-d9e5-8fc55c0bdd1c,2018-11-01,2019-05-16,ptAB,encck,134435003,Routine antenatal care,72892002,Normal pregnancy
+63ed0bfd-3985-ab7b-fe4a-d9cce9ecbb0c,2021-04-15,2021-11-18,ptAB,enccv,134435003,Routine antenatal care,72892002,Normal pregnancy
+577e5e44-c73f-d441-615c-0d6390964ffc,2008-02-02,,ptFH,enolg,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+088a193e-53e1-a1d7-188a-d4242cf172e5,2013-06-19,2014-02-15,ptFH,enolr,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+7ac0a4e8-144e-1829-b7ab-4b68e91cad23,2020-05-02,2020-05-27,ptFH,enomn,225358003,Wound care,283385000,Laceration of thigh
+632cc7d0-e211-088d-549a-7d4d75120b66,2013-02-09,2013-03-08,ptFX,enpkd,225358003,Wound care,284549007,Laceration of hand
+4747383e-032d-54f0-d413-25fdc85a6f5b,2014-01-08,2014-03-10,ptFX,enpke,91251008,Physical therapy procedure,30832001,Rupture of patellar tendon
+c8c692fd-a697-9a25-2abc-95c647a021eb,2014-04-20,2014-11-23,ptFX,enpkj,134435003,Routine antenatal care,72892002,Normal pregnancy
+7e39e819-acf4-ea5f-86cc-2b8806df0dc0,2014-04-15,,ptFX,enpki,276239002,Therapy (regime/therapy),,
+33060895-6f6e-7038-2252-af55b4a26a25,2019-11-07,2019-11-23,ptFX,enple,225358003,Wound care,283385000,Laceration of thigh
+38716fa9-0a2d-a3fb-024a-f1bae2d97af4,2020-09-29,2020-10-24,ptFX,enplh,225358003,Wound care,370247008,Facial laceration
+822c8042-d887-d6d3-85c9-cf9f9ffe75e4,2021-06-08,2021-06-08,ptFX,enplj,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+837816af-a59f-f57c-08d8-1da14b34069f,2021-06-08,2021-06-23,ptFX,enplj,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+78539bf7-d1a4-947f-941a-aaa60953fd63,2021-07-11,,ptFX,enplk,134435003,Routine antenatal care,72892002,Normal pregnancy
+e35dad15-7b48-cedb-3594-341200561b0e,1992-01-26,1992-08-23,ptDC,enjiv,134435003,Routine antenatal care,72892002,Normal pregnancy
+455d57ef-5409-cac4-cfbc-ee5b7db8750b,1995-03-05,1995-10-08,ptDC,enjiy,134435003,Routine antenatal care,72892002,Normal pregnancy
+7499e884-58e9-574a-d7c8-ce224f17a25e,1997-04-06,1997-11-09,ptDC,enjiz,134435003,Routine antenatal care,72892002,Normal pregnancy
+6bae194c-87ae-9c6a-0b2a-238d98a49652,1999-02-28,1999-10-10,ptDC,enjjb,134435003,Routine antenatal care,72892002,Normal pregnancy
+908755b8-8079-70b3-e685-17e1605dd55d,2001-03-25,2001-10-28,ptDC,enjje,134435003,Routine antenatal care,72892002,Normal pregnancy
+3cfb8360-4874-8c73-511c-aa93e0f2587f,2003-07-27,2004-03-07,ptDC,enjjf,134435003,Routine antenatal care,72892002,Normal pregnancy
+3f9621c7-e487-200a-3cd3-e98d84dedea7,2003-08-10,,ptDC,enjjg,698360004,Diabetes self management plan,15777000,Prediabetes
+a21e43d7-abfd-e0a9-ea33-f2cd16b463f5,2004-12-12,2005-07-10,ptDC,enjjj,134435003,Routine antenatal care,72892002,Normal pregnancy
+c661f192-f6d5-849f-5384-59e89b3e2883,2006-01-22,2006-08-27,ptDC,enjjk,134435003,Routine antenatal care,72892002,Normal pregnancy
+74f9b9c3-94d9-8bcc-4474-65bf993fa5e4,2007-10-28,2008-06-01,ptDC,enjjm,134435003,Routine antenatal care,72892002,Normal pregnancy
+999eaf8a-214b-26fb-59ce-ccb6b5729238,2012-12-16,2013-07-21,ptDC,enjju,134435003,Routine antenatal care,72892002,Normal pregnancy
+6edde1af-60c2-acdb-9613-eb9c4b5803bb,2014-02-04,2014-03-06,ptDC,enjkf,276239002,Therapy (regime/therapy),,
+9c221c75-3a39-89b5-d037-efe97f4301da,2014-07-13,2015-02-08,ptDC,enjkr,134435003,Routine antenatal care,72892002,Normal pregnancy
+88867f97-89b5-edd1-bb90-9c1e90fe085e,2016-03-20,,ptDC,enjlf,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+658e65b4-8232-7ae0-02b0-9690d03a9ab5,2018-04-29,,ptDC,enjlo,134435003,Routine antenatal care,72892002,Normal pregnancy
+08cd8c59-bb0c-cc30-0f54-890b710ca438,2020-12-16,2021-01-10,ptDC,enjma,225358003,Wound care,284551006,Laceration of foot
+94143d66-c50a-e705-37d4-fdfef0d22fa4,2009-06-27,2010-01-23,ptCT,enilr,134435003,Routine antenatal care,72892002,Normal pregnancy
+7f926bda-b154-29b9-d221-1e2732e5b93c,2011-08-06,2012-07-07,ptCT,enilt,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+eb3bc3ee-d99b-f19c-9be5-9dfec68f675c,2012-12-08,2013-07-13,ptCT,enilw,134435003,Routine antenatal care,72892002,Normal pregnancy
+3c3a6f07-9d3a-83fa-aefa-99c3250382b7,2014-04-03,,ptCT,enimj,276239002,Therapy (regime/therapy),,
+b57b36f1-a11d-ca4d-3a19-19bd407fc0c1,2016-01-02,2016-08-13,ptCT,enimu,134435003,Routine antenatal care,72892002,Normal pregnancy
+90bea235-998e-4090-e455-a047ef0baff7,2016-12-24,2017-08-05,ptCT,enini,134435003,Routine antenatal care,72892002,Normal pregnancy
+805a8a62-8dbe-5bfd-592c-c64999cb0f7c,2019-04-06,2019-11-09,ptCT,eninx,134435003,Routine antenatal care,72892002,Normal pregnancy
+c4843fa4-1b70-4136-f2e5-45bd0848c9d4,2021-10-02,,ptCT,enioo,134435003,Routine antenatal care,72892002,Normal pregnancy
+d3506262-25be-161c-53dc-dbad63e5d047,1980-02-20,,ptGB,enpqh,384758001,Self-care interventions (procedure),,
+1a7587a3-89f5-19b5-1afa-624689410585,2011-08-31,2012-04-11,ptGB,enprw,134435003,Routine antenatal care,72892002,Normal pregnancy
+01aa8547-0b59-6f06-8732-acc73496cbd1,2013-04-24,2013-11-06,ptGB,enpsh,134435003,Routine antenatal care,72892002,Normal pregnancy
+a84f55ce-6c79-2ff7-1975-38ade08bf096,2014-01-31,2014-03-02,ptGB,enpsu,276239002,Therapy (regime/therapy),,
+898f1790-4bdb-ce46-2b42-fedf9943ebf0,2016-07-13,2017-02-22,ptGB,enptl,134435003,Routine antenatal care,72892002,Normal pregnancy
+8e78f3be-3dd8-60c3-c222-dd17f82564cd,2017-11-22,2018-06-20,ptGB,enpty,134435003,Routine antenatal care,72892002,Normal pregnancy
+ab57a833-b50f-1024-0f47-fd5d92f37c7c,2019-05-01,2019-12-04,ptGB,enpum,134435003,Routine antenatal care,72892002,Normal pregnancy
+61c57799-757b-182c-74a2-dad04faa1e50,2013-07-11,2014-03-25,ptAN,endad,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+b8b1e171-e303-1398-c626-c21fd30e36bc,2013-10-29,2014-06-10,ptAN,endaf,134435003,Routine antenatal care,72892002,Normal pregnancy
+cbce40da-8b95-4c88-53e8-eb4aa46e1bc8,2014-01-01,2014-01-08,ptAN,endai,869761000000107,Urinary tract infection care,301011002,Escherichia coli urinary tract infection
+1c2f0bd5-51ab-1743-b1af-c64627fcd81a,1997-12-11,,ptGM,enqqc,384758001,Self-care interventions (procedure),,
+2616df8f-f909-53aa-7c4d-525eb595e3da,2009-12-29,2014-01-17,ptGM,enqqe,170836005,Allergic disorder monitoring,,
+ae06b881-5c2f-110a-b340-29a25b218417,2015-03-10,2015-10-13,ptAN,endau,134435003,Routine antenatal care,72892002,Normal pregnancy
+7b952e47-1f30-f9d2-6d5e-9d9f80529e22,2016-05-15,2019-02-26,ptGM,enqrs,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+3ae48176-aed5-901c-b545-0a2e82d20852,2018-02-06,2018-09-11,ptAN,endbm,134435003,Routine antenatal care,72892002,Normal pregnancy
+c5fc4b3e-2baf-0278-5937-2727d4037535,2019-02-26,,ptGM,enqrv,698360004,Diabetes self management plan,15777000,Prediabetes
+06254407-06c4-c037-644b-8b4b9ad75089,2021-03-21,,ptAN,endcn,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+cd1a00a1-8e26-666e-0e90-da2703d98724,2016-01-31,2016-02-22,ptBV,enftf,225358003,Wound care,283371005,Laceration of forearm
+2efc3e51-4a7d-b53f-0576-217ef237fc41,2019-08-29,,ptBV,enftm,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+2a3b54c2-1a58-648f-3050-9a0fc190d24c,2020-10-22,2021-05-27,ptBV,enftp,134435003,Routine antenatal care,72892002,Normal pregnancy
+02761445-623d-750e-9783-6f707ab3fca5,2020-12-20,2020-12-20,ptBV,enfts,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+fe8640e5-954d-7efd-6e2c-df8efdb2701b,2020-12-20,2021-01-04,ptBV,enfts,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+c7c87269-0b10-24dc-c236-4aa89b3db4ed,2015-11-23,2015-12-20,ptGA,enppl,225358003,Wound care,370247008,Facial laceration
+5f506e92-7b65-9584-0d51-062075295a83,1975-05-01,,ptFB,ennya,384758001,Self-care interventions (procedure),,
+ae3ab7f2-15f8-7935-2cc2-d19eb3ec717c,1992-01-03,,ptFB,ennyc,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+aabc37f1-5166-17a5-cc4a-84d06b931d04,2012-04-27,,ptFB,ennyz,698360004,Diabetes self management plan,15777000,Prediabetes
+4ede150c-33f6-0d36-e9b9-c75ba2aee67a,2014-03-22,,ptFB,ennzd,276239002,Therapy (regime/therapy),,
+784387f6-9a2c-d96d-a6d8-5090ce921b2e,2015-04-10,2015-11-06,ptFB,ennzi,134435003,Routine antenatal care,72892002,Normal pregnancy
+33436326-6d9d-61ba-401d-cbf9e9d5bf3d,2020-01-11,2020-01-18,ptFB,enoas,869761000000107,Urinary tract infection care,38822007,Cystitis
+25d58584-b85f-b7dc-ce34-3fd7f1029b08,2014-02-05,2014-03-07,ptCF,engul,276239002,Therapy (regime/therapy),,
+af144bc6-0e2b-c114-6475-8d0f22ff1936,2017-02-06,,ptCF,enguz,698360004,Diabetes self management plan,15777000,Prediabetes
+1fd725b3-7060-91b9-cc3a-de1cecfe4ba5,2012-09-05,,ptBI,eneqd,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+895d6a20-1e41-a05e-3daf-b83612013acf,2013-10-30,2014-05-28,ptBI,eneqg,134435003,Routine antenatal care,72892002,Normal pregnancy
+5c3f0597-b91a-c23f-0c4a-33dc14f94f60,2014-01-31,2014-03-02,ptBI,eneqk,276239002,Therapy (regime/therapy),,
+8d1bee1f-ea4b-127c-4061-8da79c324487,2016-03-16,2016-10-19,ptBI,enerd,134435003,Routine antenatal care,72892002,Normal pregnancy
+e3d1a0f8-3fdc-cd07-4cbc-6173ba1fe315,2017-08-02,2018-03-07,ptBI,enerr,134435003,Routine antenatal care,72892002,Normal pregnancy
+5d08ef50-f2c2-a4da-6954-37b758a07dbd,2012-04-03,2012-04-18,ptH,enaqk,91251008,Physical therapy procedure,44465007,Sprain of ankle
+995d0993-c04e-22b8-37a8-c76c791f76a5,2013-10-10,2020-06-29,ptH,enaqn,386522008,Overactivity/inattention behavior management,192127007,Child attention deficit disorder
+2b808930-202d-b040-ec56-3e3bc2eba0ab,2014-02-21,2014-05-24,ptH,enaqo,385691007,Fracture care,16114001,Fracture of ankle
+041ad253-f936-24f8-db0b-322968acd83e,2014-11-20,2015-07-27,ptH,enaqr,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+244ffd10-f77a-43f8-bf59-57b8052c7c80,2018-08-13,,ptH,enaqy,718361005,Weight management program,,
+03a8b724-33f4-43d8-7068-c10ef1cbbd3a,2019-04-02,2019-04-26,ptH,enara,91251008,Physical therapy procedure,44465007,Sprain of ankle
+62a8f5cf-1fc2-9b9d-ce63-11176a6119e0,2020-09-14,,ptH,enare,276239002,Therapy (regime/therapy),,
+143fa08f-d464-0b46-245d-19590581609b,2016-10-14,2016-11-14,ptL,enaug,276239002,Therapy (regime/therapy),,
+690c5849-b32e-626b-e166-fd75037c7db6,2020-04-11,2020-11-11,ptL,enauu,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+fd744ae6-830e-69cf-c0fc-63965f0cd6eb,2020-04-17,2020-05-18,ptL,enauv,91251008,Physical therapy procedure,70704007,Sprain of wrist
+8422d5d2-07a3-b15e-9b6a-338ab19906a9,2014-05-01,2014-05-16,ptCL,enhtw,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+2e909ccc-c9c5-3959-3385-c8f1dc440fd1,2016-03-13,2016-10-16,ptCL,enhue,134435003,Routine antenatal care,72892002,Normal pregnancy
+7e71d8a3-0f49-bb33-ea1b-1be0ba620362,2017-06-12,2017-07-12,ptCL,enhuq,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+ab8c89f2-ad3c-0ae5-128f-d8fa071ec327,2018-07-01,2019-01-27,ptCL,enhuv,134435003,Routine antenatal care,72892002,Normal pregnancy
+30f9d760-5099-c69f-ba04-100c50cf91dc,2019-07-22,2020-05-03,ptCL,enhvh,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+f2eeb780-a9a5-f3bb-240a-33a366f809f9,2021-05-16,,ptCL,enhvp,134435003,Routine antenatal care,72892002,Normal pregnancy
+cff2eb70-acef-a22e-7986-c9f8ee5c608e,1989-09-15,,ptBP,enfcv,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+b85dd835-f2cc-d4c8-1bfa-75e0406ab352,2000-09-01,,ptBP,enfdg,698360004,Diabetes self management plan,15777000,Prediabetes
+7b9d0fbf-13fa-9b19-790e-0e70cfeba46b,2020-11-23,2020-11-23,ptBP,enfer,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+002cd1b0-3ec5-623e-b09c-af2edc23eccd,2020-11-23,2020-12-21,ptBP,enfer,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+3d11e9c6-0e3d-6128-b495-2b87e64c006a,2002-07-27,,ptER,enncx,408869004,Musculoskeletal care,95417003,Primary fibromyalgia syndrome
+b4ea40f7-e089-e05d-f78c-7e282865d10d,2016-04-19,2016-09-22,ptER,enndn,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+8af84995-7d49-6d11-9c30-c08d712572c8,2017-07-21,2017-07-31,ptER,enndt,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+5f943239-d0a4-3af3-5b8f-7b529e2bb4fd,1974-01-26,,ptCA,engex,698360004,Diabetes self management plan,15777000,Prediabetes
+e00533b9-35cc-f8cb-eaf8-ddb2fbe7c42e,1989-12-23,,ptCA,engfd,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+98be9b9f-3ec1-3a65-d3f9-ee0095f167a2,1993-02-18,,ptCA,engfj,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+3fed9d12-cb7e-8c91-f3d0-8c9b99ba9734,2011-12-19,2012-02-25,ptCA,enggr,385691007,Fracture care,65966004,Fracture of forearm
+0b915997-86bd-2bb0-d11f-a2f893939681,2015-01-04,2015-04-20,ptCA,enghc,385691007,Fracture care,58150001,Fracture of clavicle
+5f22ed4e-5cd8-015e-3ad0-853694539d57,2019-12-08,2020-01-04,ptCA,enghq,133901003,Burn care,403190006,First degree burn
+b5888eb2-7b29-7074-20fe-5107fa359793,2013-09-15,2013-10-23,ptBE,enejv,408869004,Musculoskeletal care,39848009,Whiplash injury to neck
+e2bfbbf2-a49b-72b4-545e-33c309292b9a,2016-12-17,2018-01-02,ptBE,eneka,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+08f342db-98cc-e521-5cf7-7c8717525a20,2017-10-13,2019-08-09,ptBE,eneke,386522008,Overactivity/inattention behavior management,192127007,Child attention deficit disorder
+f986e6f2-1ac8-6317-1db3-6bbf45ea7416,2006-11-29,,ptCS,enijm,734163000,Care plan (record artifact),55680006,Drug overdose
+fdc48054-daa7-25d2-cd43-a46afb830a6a,2021-08-11,2021-08-23,ptBE,enelc,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+4c96418e-cef1-9e3a-4c53-9f3913a155d0,2014-01-31,2014-02-24,ptZ,enbyr,276239002,Therapy (regime/therapy),,
+676823d8-0fbe-90ec-d6c0-831146a0779a,2014-02-24,2014-03-14,ptZ,enbyz,133901003,Burn care,403191005,Second degree burn
+f71c9b45-f9e7-ee6c-7362-d23b8b65f85c,2017-04-10,2017-04-24,ptZ,enbzg,225358003,Wound care,284549007,Laceration of hand
+e977eedd-0e71-6ded-2ab8-17c86a3319a4,2020-11-08,2020-11-08,ptZ,enbzl,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+65b2b970-6b0c-0985-3c3c-536a4fdf8006,2020-11-08,2020-12-05,ptZ,enbzl,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+05111b0f-e690-98ca-d352-33a9a9dddd54,2008-06-27,,ptQ,enbas,698360004,Diabetes self management plan,15777000,Prediabetes
+f31e7254-6c6c-c30b-dd7d-9a087c56953f,2011-12-23,2012-07-20,ptQ,enbav,134435003,Routine antenatal care,72892002,Normal pregnancy
+02aed0d1-32fd-9b6b-43f8-bb0f8296eb39,2015-11-19,2016-01-30,ptQ,enbbl,47387005,Head injury rehabilitation,62564004,Concussion with loss of consciousness
+2fe7f6c0-a2cf-76cf-aa4c-191e60c3632c,2018-06-08,2019-01-04,ptQ,enbbx,134435003,Routine antenatal care,72892002,Normal pregnancy
+67c88045-5bd9-b204-a7fe-73a919b69a20,2012-04-15,2012-04-22,ptAM,encxx,869761000000107,Urinary tract infection care,38822007,Cystitis
+67772acc-b72d-5abe-1b87-f1d53dc1f7c9,2013-05-04,2013-11-30,ptAM,encya,134435003,Routine antenatal care,72892002,Normal pregnancy
+b2f03ccd-8f61-b9f2-f1dc-667471b078a0,2019-08-03,2020-03-07,ptAM,enczd,134435003,Routine antenatal care,72892002,Normal pregnancy
+26e3dec2-e032-6878-1967-a40089cff303,2020-04-27,2020-05-11,ptAM,enczp,737471002,Minor surgery care management (procedure),,
+19eb4e0f-cbd1-33e2-b93e-cf853b3d7b14,1989-04-05,,ptCH,engwy,384758001,Self-care interventions (procedure),,
+4ace63a2-9608-0ebd-1fef-6f5c94980d7c,2005-12-25,,ptCH,engxb,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+e8eec632-21e0-79f2-3e93-6479064c2110,2010-01-17,,ptCH,engxf,698360004,Diabetes self management plan,15777000,Prediabetes
+af811838-8bac-0dd9-8e18-8a6f709d28fe,2013-01-20,2013-09-01,ptCH,engxk,134435003,Routine antenatal care,72892002,Normal pregnancy
+7a3e701b-5e92-22ec-0838-1569e77130c5,2013-10-04,2013-12-06,ptCH,engxw,385691007,Fracture care,16114001,Fracture of ankle
+08f0b43b-805f-80c8-9e0c-75f38c04728c,2014-04-04,,ptCH,engyc,276239002,Therapy (regime/therapy),,
+1d6300de-7e9f-1358-87c0-517975e90212,2014-06-13,2014-06-22,ptCH,engyd,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+15f44a30-ffc4-87bf-1812-dd2de59fd346,2016-09-10,2017-02-26,ptCH,engyp,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+3781ee3c-bd49-48b1-f45a-118ff61062b3,2017-04-09,2017-11-05,ptCH,engyt,134435003,Routine antenatal care,72892002,Normal pregnancy
+bd527a61-d6b2-204f-f92f-5c3c9aaff7a4,2006-01-09,,ptEM,enmpc,384758001,Self-care interventions (procedure),,
+9d6004c4-5d92-31fc-707a-f71c48a62f5e,2014-10-17,2018-10-10,ptEM,enmpf,170836005,Allergic disorder monitoring,,
+b69b21bd-2fea-dda2-c969-774d851b2b08,2014-12-05,2015-11-13,ptEM,enmpj,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+076403de-d9bc-612a-bab1-1c126259f16f,2019-02-22,2019-09-27,ptEM,enmry,134435003,Routine antenatal care,72892002,Normal pregnancy
+434129a5-37c8-7459-28f4-6e98eacc4b33,2020-12-07,2020-12-07,ptEM,enmsp,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+6e63ad65-44be-503b-9e00-1c7149add7f2,2020-12-07,2021-01-10,ptEM,enmsp,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+b86396f2-7cf6-b825-013f-1be64358fe7f,2014-05-29,2014-12-25,ptFL,enoqq,134435003,Routine antenatal care,72892002,Normal pregnancy
+a4d10844-28a7-6837-8032-3ee98a756b76,2018-04-27,2018-05-12,ptFL,enorn,737471002,Minor surgery care management (procedure),,
+b6722b29-9ef4-8cea-a639-879e0f75bbf0,2019-11-02,2019-11-18,ptFL,enoro,225358003,Wound care,283385000,Laceration of thigh
+78d13430-4421-4317-260a-f2ba5ad32374,1990-05-06,,ptP,enayb,384758001,Self-care interventions (procedure),,
+8889e261-d046-2e5c-2519-a5f1a4ad7a1f,1993-03-22,,ptP,enayd,699728000,Asthma self management,233678006,Childhood asthma
+0972a461-1dca-867e-6729-d03028af3f9b,2010-06-06,2010-10-05,ptP,enayy,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+9e6cdeac-6949-fc3b-a8d5-7722964f5ce2,2014-02-06,2014-03-08,ptP,enazf,276239002,Therapy (regime/therapy),,
+2710c99c-d70d-1988-dfb8-c26c0897381f,2015-02-10,2015-03-08,ptP,enazr,225358003,Wound care,283371005,Laceration of forearm
+fbf59ce0-156d-2e18-5467-26f2bc651047,2021-07-01,2021-07-01,ptP,enbaj,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+3d23dc57-0a16-f33f-ec72-142ad49a7807,2021-07-01,2021-07-16,ptP,enbaj,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+c153d470-6d23-9a05-cee4-3b9c766bd086,2021-07-11,,ptP,enbak,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+8abac3b5-5bad-ed31-2589-517e874a2e54,1987-01-01,,ptFF,enohn,408869004,Musculoskeletal care,95417003,Primary fibromyalgia syndrome
+0dae95a5-be9f-de94-9c07-a43b949af960,2004-07-22,,ptFF,enohy,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+262e3849-5312-763a-fad3-446ebe3cb5d1,2017-02-03,2017-02-20,ptFF,enoja,225358003,Wound care,284551006,Laceration of foot
+76225d3a-97ec-5fec-662f-59d8bb16544e,2019-12-30,2020-02-16,ptFF,enojl,385691007,Fracture care,16114001,Fracture of ankle
+fb8d1124-75eb-d57b-39f3-de96e0815c4e,2014-02-02,2014-02-27,ptAR,endll,276239002,Therapy (regime/therapy),,
+1d2547fa-379b-a83e-f3f2-5627656a6eed,2016-11-22,2017-01-07,ptAR,endlv,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+b0e9e06a-3868-c85f-5eb1-bc0f9d8c42e3,2018-11-30,,ptAR,endlz,698360004,Diabetes self management plan,15777000,Prediabetes
+4601b69e-5c71-5764-e51b-d247d8878d09,2019-05-14,2020-11-06,ptAR,endmb,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+8b565b0b-8573-d335-bd1c-ddf34963f706,1979-02-14,,ptGN,enqsu,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+9a2ddcb2-8767-90fb-1ffc-c03bd349e6d1,2014-01-31,2014-02-24,ptGN,enqvg,276239002,Therapy (regime/therapy),,
+89f46455-c432-c620-424f-61b1cd956f06,2018-03-30,2018-04-17,ptGN,enqvy,91251008,Physical therapy procedure,70704007,Sprain of wrist
+83bd1434-cbdc-ae8c-c69a-170ed6ce9b8a,2005-02-19,,ptEB,enlsd,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+fcb0e989-2951-0646-713e-6a2eddf3a066,2012-11-03,2013-05-18,ptEB,enlsn,134435003,Routine antenatal care,72892002,Normal pregnancy
+7f6877a4-61dc-8ad0-9001-bf89d85cb709,2013-03-22,2013-04-13,ptEB,enlss,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+952a1e72-5f17-cb64-3890-10d8cc1eb066,2014-03-15,2014-09-27,ptEB,enlta,134435003,Routine antenatal care,72892002,Normal pregnancy
+454486d5-a476-2519-e4ef-b03861566714,2015-02-21,2015-09-26,ptEB,enltm,134435003,Routine antenatal care,72892002,Normal pregnancy
+35c53d29-b1c4-8b43-c82c-480a71393cb4,2019-02-25,2019-03-23,ptEB,enlui,225358003,Wound care,283371005,Laceration of forearm
+6ac4510a-ea81-fb36-b6fa-1f2e65dcc571,1979-02-02,,ptDS,enkxo,384758001,Self-care interventions (procedure),,
+87b8122f-6122-26e0-0168-68bc687c7953,1996-07-31,,ptDS,enkxr,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+b4c1250c-472d-389f-6dec-d08736aeb4d3,2014-01-15,2014-08-20,ptDS,enkyp,134435003,Routine antenatal care,72892002,Normal pregnancy
+5d65c355-be0a-f437-a285-035aad6afcb7,2017-02-01,2017-09-15,ptDS,enkzf,134435003,Routine antenatal care,72892002,Normal pregnancy
+a92ecbe6-64fd-41f7-e6e5-acd0e0949aec,2020-03-07,2020-03-26,ptDS,enlab,91251008,Physical therapy procedure,70704007,Sprain of wrist
+a1a989a6-2ed4-0c18-5a06-291d64f09c56,2011-09-04,2012-05-02,ptDL,enkfw,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+c238a519-f0ea-1521-90d8-dac708d036e0,2015-01-19,2015-05-20,ptDL,enkgd,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+800fed8e-7023-303d-cc59-627df5e08a04,2017-05-31,,ptDL,enkgl,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+a6aa4287-8ebb-1bb3-c837-27fd2f59de19,2020-11-14,2020-11-14,ptDL,enkgt,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+8391ff14-e882-9ea1-83f8-8b514ae74549,2020-11-14,2020-11-30,ptDL,enkgt,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+5c2e31a7-2305-8409-91f8-e0b26a0db527,1998-02-05,,ptDH,enjww,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+6782d163-cf47-bb73-3363-fc262d8a1fd5,2012-01-19,2012-03-01,ptDH,enjxq,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+c2049960-66f4-d5b8-6a6b-055c39a0eb5d,2014-02-01,2014-03-03,ptFA,ennxb,276239002,Therapy (regime/therapy),,
+6ff33f72-b3ce-9036-434c-44928bc3b237,2018-02-24,2018-05-25,ptFA,ennxr,385691007,Fracture care,58150001,Fracture of clavicle
+309aa6b9-268f-c565-651f-98fb70981e5d,2011-06-22,2012-01-18,ptFU,enpfd,134435003,Routine antenatal care,72892002,Normal pregnancy
+26ced631-1e6e-e6d6-90db-933f65329f6b,2012-05-30,2012-12-26,ptFU,enpfj,134435003,Routine antenatal care,72892002,Normal pregnancy
+87efc058-5211-ded3-7b6e-fac5e348c8c7,2015-06-10,2016-01-13,ptFU,enpga,134435003,Routine antenatal care,72892002,Normal pregnancy
+7abd86dc-8f68-34d0-f405-bbed6b0b73c8,2017-03-01,2017-03-18,ptFU,enpgp,737471002,Minor surgery care management (procedure),,
+b3f89818-bb15-cab0-0885-5bed029bb5c0,2012-09-10,2013-03-25,ptEE,enmbi,134435003,Routine antenatal care,72892002,Normal pregnancy
+cc41a046-7159-1d15-0716-0bdb7cdfd4e6,2013-04-29,2013-05-15,ptEE,enmbq,91251008,Physical therapy procedure,70704007,Sprain of wrist
+bb3253cc-5bdf-97fd-bcd0-ddd6a457c697,2014-02-05,2014-03-07,ptEE,enmbs,276239002,Therapy (regime/therapy),,
+1cd61d78-e46e-81ea-9677-05a802321d69,2014-04-06,,ptEE,enmce,276239002,Therapy (regime/therapy),,
+e7590da7-9bbb-8ff0-06bf-2fc0b79849eb,2020-07-19,2020-07-19,ptEE,enmcy,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+250764f8-c9dc-498c-4997-4cac45219902,2020-07-19,2020-08-12,ptEE,enmcy,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+1f6a8240-70e7-7983-5bf1-75f5d9b9f487,2020-08-24,2021-03-22,ptEE,enmcz,134435003,Routine antenatal care,72892002,Normal pregnancy
+9b58d36c-04e8-76b8-b642-d338feb6476b,2017-04-14,,ptBF,enelo,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+8fb092e3-206c-3cfa-2ef5-3d422571b38d,2019-04-26,2019-11-30,ptBF,enelv,134435003,Routine antenatal care,72892002,Normal pregnancy
+db4eaaa7-64d6-0a82-7ab5-97bf37166f4c,2021-02-07,2021-02-07,ptBF,enemq,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+612de830-0676-a721-906c-b7d52ef8477b,2021-02-07,2021-02-23,ptBF,enemq,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+62db3736-6fa4-1cee-afb5-a5622ebf57fd,1980-01-15,,ptFO,enovm,384758001,Self-care interventions (procedure),,
+59945b55-591a-cf1f-c0b2-353502a87a97,2011-09-18,2012-04-29,ptFO,enovz,134435003,Routine antenatal care,72892002,Normal pregnancy
+ed54fb0d-6a81-a1e1-c56c-0ebe57f064dc,2012-10-07,2013-05-26,ptFO,enowj,134435003,Routine antenatal care,72892002,Normal pregnancy
+44f8739f-9218-db18-25dd-0a89cf048d32,2014-04-07,,ptFO,enowz,276239002,Therapy (regime/therapy),,
+b081871f-aa1d-9958-15f7-a4a84258cbcc,2014-07-13,2015-02-22,ptFO,enoxa,134435003,Routine antenatal care,72892002,Normal pregnancy
+6b756a7f-cc5f-bc6f-83e1-3402d16eb275,2020-11-19,2020-12-03,ptFO,enoxz,91251008,Physical therapy procedure,44465007,Sprain of ankle
+a0a2fecf-ffdb-6b09-6fc7-e8edc2fbbc7d,2021-10-29,,ptFO,enoye,91251008,Physical therapy procedure,444448004,Injury of medial collateral ligament of knee
+6f30bab4-ec9e-0295-1de5-9cd099165343,2012-01-14,2013-01-07,ptAA,enbzq,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+4584541e-0530-22ef-be06-b793e8e84288,2013-07-29,2013-09-01,ptAA,enbzt,91251008,Physical therapy procedure,44465007,Sprain of ankle
+fbac4436-0b9d-50ab-fcd3-0a89e00dbc6d,2021-02-03,2021-03-06,ptAA,encad,276239002,Therapy (regime/therapy),,
+87fd663c-f573-66bc-100d-332163b5d804,2021-04-05,,ptAA,encap,276239002,Therapy (regime/therapy),,
+bd5e623f-9383-bc63-6e10-3c14c425b612,1995-04-25,1995-12-05,ptGL,enqov,134435003,Routine antenatal care,72892002,Normal pregnancy
+346f6c1f-35af-3efc-0134-ab267c4a1db6,1996-04-23,1996-11-26,ptGL,enqox,134435003,Routine antenatal care,72892002,Normal pregnancy
+2bea5a17-6dd8-af24-aee6-053020f07ea1,2001-10-30,2002-05-28,ptGL,enqoz,134435003,Routine antenatal care,72892002,Normal pregnancy
+1e2ca952-71b1-4490-4b15-eee9e72754c4,2006-06-13,,ptGL,enqpc,134435003,Routine antenatal care,72892002,Normal pregnancy
+e7d4c8fc-6b12-11c4-8428-1b311a231e0d,2014-02-06,2014-03-09,ptGL,enqpg,276239002,Therapy (regime/therapy),,
+893ad6a1-762f-105f-d0b2-179c6b2d82b2,2018-03-13,,ptGL,enqpv,698360004,Diabetes self management plan,44054006,Diabetes
+07a63d91-790c-5ca6-e164-1c305015a5a6,1995-03-13,,ptDP,enknf,718361005,Weight management program,,
+3f498c56-f83a-496f-38e4-daffc2ba03f1,2006-05-15,,ptDP,enknk,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+3acd39ab-131e-25fa-3047-10796e61373c,2012-09-24,2013-05-06,ptDP,enknw,134435003,Routine antenatal care,72892002,Normal pregnancy
+4bd0265e-7be4-ed8c-473f-8767cedbccee,2014-03-23,,ptDP,enkor,276239002,Therapy (regime/therapy),,
+3d02f0cf-383e-b768-e5b7-cd0036c0122c,2014-06-30,,ptDP,enkou,698360004,Diabetes self management plan,15777000,Prediabetes
+eddf9740-b807-1788-4a4f-10a337a21cb5,1989-12-07,,ptBK,enetd,384758001,Self-care interventions (procedure),,
+c3cb16fc-9cf5-780b-cd25-a2e7cd68e1f8,2008-05-17,2008-12-20,ptBK,enetg,134435003,Routine antenatal care,72892002,Normal pregnancy
+ee1272f8-8e66-5793-cc22-0ce6e4eed01d,2014-03-07,,ptBK,enetm,276239002,Therapy (regime/therapy),,
+27aeeecd-3197-e5fe-1774-24eef1a2287b,2014-03-15,2014-10-11,ptBK,eneto,134435003,Routine antenatal care,72892002,Normal pregnancy
+c5736b52-c3e6-c94b-c967-535b6a939afc,2014-05-06,2015-03-21,ptBK,enetr,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+3c4eb942-1d9d-d401-3e98-e09f1b0486d8,2018-05-26,2018-12-29,ptBK,eneuk,134435003,Routine antenatal care,72892002,Normal pregnancy
+f5650eec-be26-e30e-a41a-c94c2c891cea,2020-03-26,2020-04-03,ptBK,eneux,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+fa190fca-8f7f-0bbe-39dc-a083925efa20,2021-01-28,2021-02-18,ptBK,eneva,225358003,Wound care,370247008,Facial laceration
+be0e612a-c24a-49f5-ec47-60c605505fc8,2021-07-10,,ptBK,enevd,134435003,Routine antenatal care,72892002,Normal pregnancy
+b8ddb232-2c11-0930-b6f3-a1a0ad90c250,1993-03-10,,ptDM,enkgw,384758001,Self-care interventions (procedure),,
+5747d6e5-d904-520e-c728-b6883827f7cb,2008-11-23,,ptDM,enkgy,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+f95cd524-8dee-04d8-33d1-cf7b35d9da4f,2009-09-20,2010-04-25,ptDM,enkha,134435003,Routine antenatal care,72892002,Normal pregnancy
+fb0b2f9c-f37a-055a-ea3d-05eae4876491,2010-11-07,2011-06-12,ptDM,enkhc,134435003,Routine antenatal care,72892002,Normal pregnancy
+296ecda0-fa93-a985-8edc-94aa6b5784de,2012-12-16,,ptDM,enkhi,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+5463c9f0-34b3-8798-7714-9e72a9cc98b1,2014-03-30,,ptDM,enkho,276239002,Therapy (regime/therapy),,
+8a5b5917-3884-d6ea-b9e9-19e7f1ee934d,2014-04-20,2014-11-16,ptDM,enkhp,134435003,Routine antenatal care,72892002,Normal pregnancy
+713825a3-bbec-366c-c77d-eb87c613df71,2017-03-05,2017-10-01,ptDM,enkig,134435003,Routine antenatal care,72892002,Normal pregnancy
+a5b1c098-ab38-890e-6a64-b93c05620c9a,2020-03-29,,ptDM,enkix,134435003,Routine antenatal care,72892002,Normal pregnancy
+7a747120-f2b9-5cb1-603f-d40a580ecf60,1990-12-29,,ptGO,enqwk,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+87de306d-9047-b235-4946-d649f8571fe0,2014-03-23,,ptGO,enqxp,276239002,Therapy (regime/therapy),,
+677c77c3-4704-2e4b-6e7c-8469f58c68c4,2016-04-23,2016-12-03,ptGO,enqxw,134435003,Routine antenatal care,72892002,Normal pregnancy
+48d61918-c1bf-d219-b2ce-fdb0fecefd6a,1976-07-29,,ptDY,enlln,384758001,Self-care interventions (procedure),,
+70d31916-4221-de2e-5a9c-9dc16f38a0b0,2007-01-28,,ptDY,enllt,412776001,Chronic obstructive pulmonary disease clinical management plan,87433001,Pulmonary emphysema (disorder)
+3c451ce0-090e-bed7-aa38-d866404cd56e,2011-03-14,,ptDY,enlma,408869004,Musculoskeletal care,239873007,Osteoarthritis of knee
+2dd3d5db-6dbd-3b60-4a52-f61e1ef2b4ac,2012-10-28,2013-06-16,ptDY,enlmg,134435003,Routine antenatal care,72892002,Normal pregnancy
+f95c0e10-1ef5-f079-9977-43f4e1c36f3e,2013-12-05,2014-07-17,ptFC,enobj,134435003,Routine antenatal care,72892002,Normal pregnancy
+d0d0cbdd-70d5-bd51-f734-14e5b3551a3c,2015-09-24,2016-04-28,ptFC,enobx,134435003,Routine antenatal care,72892002,Normal pregnancy
+1dfe53e0-4959-171a-ff3f-47240a252047,2016-11-17,2017-06-23,ptFC,enock,134435003,Routine antenatal care,72892002,Normal pregnancy
+28fea0a5-ba40-2d70-4690-492f91a1e91e,2016-12-12,2017-04-08,ptFC,enoco,385691007,Fracture care,16114001,Fracture of ankle
+194e5456-b932-57e5-d8ec-c2884631c37f,2019-05-23,2019-12-19,ptFC,enode,134435003,Routine antenatal care,72892002,Normal pregnancy
+affc7fbb-577c-b408-d7e3-e5b4bd5511b5,2021-10-28,,ptFC,enodw,698360004,Diabetes self management plan,15777000,Prediabetes
+ca2b97d3-485d-08e3-04cc-92c51c4f6f21,2012-04-11,2016-12-24,ptBS,enfki,386522008,Overactivity/inattention behavior management,192127007,Child attention deficit disorder
+38f66be7-4617-b5a1-ab5b-e4cd5a744a62,2019-05-09,2019-06-16,ptBS,enfmp,47387005,Head injury rehabilitation,62564004,Concussion with loss of consciousness
+e360fb87-08af-55c6-09fe-8098750ff1d5,2021-01-26,2021-02-26,ptBS,enfms,276239002,Therapy (regime/therapy),,
+7d8abd89-90c2-74c9-4d2e-2dd433eca667,2021-03-28,,ptBS,enfne,276239002,Therapy (regime/therapy),,
+55792b17-b26f-44d2-a894-dfe53363cd8b,1958-12-15,,ptY,enbta,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+c18d29e3-a6cf-aa64-ac0c-8bf4efb9bdfa,1972-02-28,,ptY,enbtn,698360004,Diabetes self management plan,15777000,Prediabetes
+d363ff66-6095-71f5-4f40-bf423dfadeae,1999-05-10,,ptY,enbur,734163000,Care plan (record artifact),55680006,Drug overdose
+5b761f5d-3685-003d-fde4-b1ad4133879e,2004-09-20,,ptY,enbvb,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+322a50d4-f7b0-a1ae-0d69-6186864e6d2b,2014-02-05,2014-03-08,ptY,enbvz,276239002,Therapy (regime/therapy),,
+a39f9b73-752a-f60e-bf7e-32022aaa2de7,1988-07-10,,ptBX,enfwr,384758001,Self-care interventions (procedure),,
+7207a07d-132e-510f-c060-1710c9f5f727,2002-04-29,,ptBX,enfwt,698360004,Diabetes self management plan,15777000,Prediabetes
+988250d9-f31a-3f8a-776f-25aec9eddec8,2014-03-18,,ptBX,enfxi,276239002,Therapy (regime/therapy),,
+60d9c03c-c663-9e9e-56a8-ce73a2ade76c,2015-11-14,2016-06-20,ptBX,enfxq,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+6e8a1d4d-7cd9-999c-c76e-649a51742db2,2018-11-26,2018-12-14,ptBX,enfxz,737471002,Minor surgery care management (procedure),,
+52c941a9-19f4-6640-5561-c74011fd0611,1985-05-12,1985-05-20,ptCM,enhvx,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+a078b895-4945-6aae-524b-857c0b4844d6,2000-01-03,2000-12-05,ptCM,enhvz,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+f9b38805-7dee-e6af-ba12-8c82dc6ddc83,2014-02-06,2014-03-08,ptCM,enhwg,276239002,Therapy (regime/therapy),,
+188e4612-bc20-0345-743e-98056a3242cb,2017-10-09,2017-10-16,ptCM,enhwz,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+76bb4c4c-6fe6-892b-79c1-3585485ed92e,2019-04-15,2019-05-16,ptCM,enhxe,91251008,Physical therapy procedure,44465007,Sprain of ankle
+9a3b4eea-8a77-bd38-42e9-1b6b271c2f6d,2021-05-30,,ptCM,enhxh,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+2c7f6eed-cb3c-8107-9d51-e2ea09951592,2019-07-20,,ptEI,enmjb,386522008,Overactivity/inattention behavior management,192127007,Child attention deficit disorder
+583d6a7c-ca64-97bf-8d9c-d03496bff95d,1991-09-06,,ptG,enaoe,698360004,Diabetes self management plan,15777000,Prediabetes
+b9747df8-b09a-f18a-d5fa-25ce7dc3ba83,1988-05-20,,ptS,enbfi,718361005,Weight management program,,
+a2f23d4d-65fd-6245-6513-bc340e1026c7,1999-06-11,,ptS,enbfp,698360004,Diabetes self management plan,15777000,Prediabetes
+cf75536d-eecf-79da-4c48-f9c483a12eea,2013-06-13,2013-06-28,ptS,enbfy,225358003,Wound care,370247008,Facial laceration
+395e5663-ad0b-b444-510e-504597ee5fc2,2013-08-09,2014-03-21,ptS,enbga,134435003,Routine antenatal care,72892002,Normal pregnancy
+bb0cf2f2-c4f9-0c80-95c1-5fae659d10bb,2021-01-01,2021-01-01,ptS,enbgz,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+bc0982b0-5689-c543-b494-b8f1cd7044fb,2021-01-01,2021-01-31,ptS,enbgz,736376001,Infectious disease care plan (record artifact),840539006,COVID-19
+227d2fe4-98c6-cf0f-2e5e-10d85f772a28,1998-01-25,,ptDU,enlcy,734163000,Care plan (record artifact),55680006,Drug overdose
+536939e5-bdd8-32a0-4ebf-7a1b5594121f,2007-08-15,,ptDU,enlde,698360004,Diabetes self management plan,15777000,Prediabetes
+c302ebb1-8009-a4cc-48c4-19ebc281d56e,2014-04-23,,ptDU,enldu,276239002,Therapy (regime/therapy),,
+3ca15082-6a11-ea4c-77ec-a6a40bf13944,2021-04-06,2021-10-06,ptDU,enlfj,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+31bfb88c-0c16-a307-539d-7e307271ecbe,1990-12-31,,ptCZ,eniys,734163000,Care plan (record artifact),55680006,Drug overdose
+f938a3ca-4fdd-edd0-be2a-293bea34425f,2017-07-16,,ptCZ,enjal,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+13239f2b-af96-7c12-03aa-e96e48138da4,2019-01-12,2019-03-15,ptCZ,enjaz,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+2fba02d4-c149-d825-18d5-c57f767424d2,2015-08-26,2016-03-09,ptI,enarn,134435003,Routine antenatal care,72892002,Normal pregnancy
+f1953de6-4bfd-407d-7444-31040c34fba5,2016-09-14,2017-04-26,ptI,enarw,134435003,Routine antenatal care,72892002,Normal pregnancy
+1463094f-039b-7299-a10d-580d677a0258,1976-12-10,,ptW,enbmn,698360004,Diabetes self management plan,15777000,Prediabetes
+952c72ee-3b88-3b06-2c80-775a1d07eb4e,1986-04-26,,ptW,enbmr,408869004,Musculoskeletal care,201834006,Localized  primary osteoarthritis of the hand
+dc25bf43-244a-c981-5276-24e15cca8b13,1996-11-15,,ptW,enbmw,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+e64e22e1-d46f-1c0b-244d-6de181c55ce8,1979-01-29,,ptED,enlyb,384758001,Self-care interventions (procedure),,
+ab1bc4e1-098c-02ae-696b-1dda9fd48316,1995-10-29,,ptED,enlyf,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+bfcac00f-762b-e3ed-9d00-d4b3532d5f79,2014-04-23,,ptW,enboa,276239002,Therapy (regime/therapy),,
+a54c16ee-10e8-db65-1d61-28d99d12fe6a,2015-04-02,2016-01-08,ptW,enbof,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+b019e389-c666-7053-550b-8880aa72ef31,2012-09-07,2013-02-10,ptED,enlza,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+37c8bd93-be60-5358-7856-44b0b87b56d4,2012-09-26,2012-11-29,ptED,enlzc,47387005,Head injury rehabilitation,62106007,Concussion with no loss of consciousness
+fa30a200-a4b3-28fc-0492-4bb365d181fe,2020-11-12,2020-11-26,ptW,enbov,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+caea3861-f014-6be3-23e0-06ff14547deb,2016-01-06,2016-01-25,ptED,enlzw,91251008,Physical therapy procedure,44465007,Sprain of ankle
+ea5fd16b-eb8d-5fd3-2dd3-03ed1b5ffefa,2018-04-11,2018-04-25,ptFI,enonl,737471002,Minor surgery care management (procedure),,
+0861dc1e-f03a-ec34-a6a5-5533058d3d90,2006-07-16,,ptAE,enchr,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+1f746f47-20cc-915b-8b5c-77fd4ec3d519,2012-09-16,2013-04-21,ptAE,encia,134435003,Routine antenatal care,72892002,Normal pregnancy
+3dbb283c-024d-a6a7-4227-2cf71b15f0c8,2013-06-20,2013-07-07,ptAE,encim,737471002,Minor surgery care management (procedure),,
+04aacfa4-e135-a554-992c-2e685f8170a1,2014-03-31,,ptAE,encip,276239002,Therapy (regime/therapy),,
+40a79c2a-3d9b-3748-5fee-d8d74732d012,2012-01-15,2012-12-26,ptFJ,enons,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+5a34d8cb-9d21-e9c2-7c8a-a464afa1879f,2015-10-13,2015-12-30,ptFJ,enonw,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+5c186b81-2261-0449-11ef-d64d1b66a8bc,2015-12-30,,ptFJ,enony,698360004,Diabetes self management plan,15777000,Prediabetes
+71baa823-b3db-cd40-8cdd-0584dd7d289a,2019-01-02,,ptFJ,enooa,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+5433ab39-2107-2fef-8fcb-e021ab5b2b63,2021-06-21,2021-07-09,ptFJ,enoog,91251008,Physical therapy procedure,44465007,Sprain of ankle
+45a08287-fce0-a1b1-76fe-132ebddf414d,1987-05-03,,ptEG,enmfd,384758001,Self-care interventions (procedure),,
+19cc6224-e405-537b-8c82-c871d2158a1f,2010-04-29,2010-12-16,ptEG,enmfk,134435003,Routine antenatal care,72892002,Normal pregnancy
+b107501c-167c-bb0d-65b6-85a5f399ec19,2011-07-21,2012-02-23,ptEG,enmfn,134435003,Routine antenatal care,72892002,Normal pregnancy
+b8440d20-7472-1089-19d0-25f174c042ed,2014-03-25,,ptEG,enmgb,276239002,Therapy (regime/therapy),,
+9d9c8f02-daeb-27e1-f178-99abb127afbb,2017-05-25,,ptEG,enmgu,134435003,Routine antenatal care,72892002,Normal pregnancy
+0f8563ae-5f1d-60bd-6b98-7487f0400bfe,2019-02-17,2019-03-08,ptEG,enmhc,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+4617fe49-908a-fcce-3f3a-f71022a8e955,2021-02-28,2021-03-15,ptEG,enmhi,737471002,Minor surgery care management (procedure),,
+58e5adee-a738-3855-01c6-2854f1bb4b00,2013-10-21,2014-06-01,ptGH,enqgw,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+b4cd333f-a0ad-636e-65a3-13430c96a728,2018-06-24,,ptGH,enqhf,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+67fd4aa2-82f3-7977-0726-362856c952af,2021-09-23,2021-10-01,ptGH,enqhn,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+fc98d7b4-d642-7948-ee43-354661371430,2013-02-24,,ptDV,enlfv,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+723530b6-4ab8-8233-c320-740c3408873c,2014-06-22,,ptDV,enlgc,276239002,Therapy (regime/therapy),,
+6ba9a0bc-a9ee-e41d-a9a5-dc342c589405,2001-03-26,,ptDD,enjmf,384758001,Self-care interventions (procedure),,
+825251b8-8f4f-20ce-34a0-af36fd294d2c,2013-07-19,2017-06-24,ptDD,enjmj,170836005,Allergic disorder monitoring,,
+f9393251-beff-beb7-1013-bd607a2d5f24,2015-07-23,2015-08-27,ptDD,enjnu,91251008,Physical therapy procedure,44465007,Sprain of ankle
+43738dcc-6d08-9af0-f638-7adcfb43dc3e,2015-10-26,2015-11-03,ptDD,enjoa,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+9dcdb051-ed01-bd4c-eeb2-32901974c91e,2018-09-07,,ptDD,enjpf,443402002,Lifestyle education regarding hypertension,59621000,Hypertension
+0853681f-afac-18aa-0a78-8d785e7201a7,2018-11-19,2019-09-13,ptDD,enjph,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+a518f9f6-4de9-75af-b651-9307d9f7aa57,2020-08-21,2020-09-08,ptDD,enjpn,225358003,Wound care,370247008,Facial laceration
+15087430-5c33-4804-601b-7deae6587526,2015-05-23,2015-10-23,ptO,enaxd,386522008,Overactivity/inattention behavior management,192127007,Child attention deficit disorder
+2b4bfbcc-ef40-1874-b969-a235c3b3bb64,2015-12-23,2016-05-15,ptO,enaxj,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+52a1095b-8ebb-f642-f7d8-57fcd9dd2ed7,2021-04-07,2021-04-20,ptO,enaxs,736376001,Infectious disease care plan (record artifact),840544004,Suspected COVID-19
+719e2554-4b62-3293-df5e-159faeba3f8b,2021-06-20,,ptO,enaxv,134435003,Routine antenatal care,72892002,Normal pregnancy
+6f670033-2f57-2883-3dc3-dd0271db6bb9,2006-12-22,,ptCU,enioy,736285004,Hyperlipidemia clinical management plan,55822004,Hyperlipidemia
+51520a8a-c857-451d-b6ca-6b0578f5f4e5,2012-11-16,,ptCU,enipf,698360004,Diabetes self management plan,15777000,Prediabetes
+cdb12fed-30b0-c8a3-5093-4f2b9781218e,2014-05-12,2014-12-12,ptCU,enipl,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+41e44caf-d6ee-2183-9ce3-09bc1d1dab0b,2015-02-12,2015-12-18,ptCU,enipq,53950000,Respiratory therapy,10509002,Acute bronchitis (disorder)
+3b5a358d-49d3-b81e-3d42-dc29f9773659,2018-06-21,2018-09-11,ptCU,enipy,47387005,Head injury rehabilitation,62564004,Concussion with loss of consciousness
+e2ee523e-be74-03c0-36e2-045c0773c14d,2020-12-27,2021-01-03,ptCU,eniqf,869761000000107,Urinary tract infection care,38822007,Cystitis

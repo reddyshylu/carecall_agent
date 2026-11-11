@@ -1,0 +1,11 @@
+.env
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+data/agent_store/
+data/model_cache/
+runs/eval_results.csv
+CLAUDE.md
+scripts/copy_keys_from_model_a.py
+*.tar.gz
